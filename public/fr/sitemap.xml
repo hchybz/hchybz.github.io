@@ -2,6 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/fr/tags/acier/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/artisanat/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/categories/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/categories/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/tags/ch%C3%AAne/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/design/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/tags/design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/tags/design/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/fr/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/tags/mobilier/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/meubles-acier-chene/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/steel-oak-furniture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/meubles-acier-chene/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/categories/non-it/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/categories/non-it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/categories/non-it/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/tags/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/tags/"
+                />
+  </url><url>
     <loc>//localhost:1313/fr/tags/art/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,37 +121,8 @@
                 href="//localhost:1313/fr/tags/art/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/fr/posts/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/categories/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/categories/"
-                />
-  </url><url>
     <loc>//localhost:1313/fr/tags/%C3%A9lectronique/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/fr/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/fr/"
-                />
   </url><url>
     <loc>//localhost:1313/fr/tags/ibm/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
@@ -75,47 +152,18 @@
   </url><url>
     <loc>//localhost:1313/fr/fr/posts/iseq-logo/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="//localhost:1313/en/posts/iseq-logo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/"
-                />
-  </url><url>
-    <loc>//localhost:1313/fr/categories/non-it/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/categories/non-it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/categories/non-it/"
+                href="//localhost:1313/fr/fr/posts/iseq-logo/"
                 />
   </url><url>
     <loc>//localhost:1313/fr/tags/recyclage/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/tags/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/tags/"
-                />
   </url>
 </urlset>
