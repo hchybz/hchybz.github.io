@@ -1,0 +1,37 @@
+{{ define "main" }}
+<div class="max-w-7xl mx-auto">
+    <h1 class="text-3xl font-bold text-gray-900 mb-4">
+        {{ .Title | default (i18n "latest_posts" | default "Latest Posts") }}
+    </h1>
+
+    <!-- Pinterest-style Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {{$currentLang := .Lang}}
+        {{range .Site.RegularPages}}
+        {{if and (eq .Lang $currentLang) (findRE "/posts/" .RelPermalink)}}
+        <article class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300">
+            <a href="{{ .RelPermalink }}" class="block">
+                {{ with .Params.image }}
+                <div class="w-full h-56 overflow-hidden">
+                    <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full h-full object-cover">
+                </div>
+                {{ else }}
+                <div class="w-full h-56 bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center">
+                    <span class="text-white text-4xl font-bold">{{ substr .Title 0 1 }}</span>
+                </div>
+                {{ end }}
+                <div class="p-4">
+                    <h3 class="text-lg font-semibold text-gray-800 mb-2">{{ .Title }}</h3>
+                    {{ with .Description }}
+                    <p class="text-gray-600 text-sm">{{ . }}</p>
+                    {{ else }}
+                    <p class="text-gray-600 text-sm">{{ .Summary | truncate 120 }}</p>
+                    {{ end }}
+                </div>
+            </a>
+        </article>
+        {{end}}
+        {{ end }}
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non IT on My Personal Blog</title>
+    <link>//localhost:1313/categories/non-it/</link>
+    <description>Recent content in Non IT on My Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/non-it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ISEQ Logo: Art from Recycled IBM Components</title>
+      <link>//localhost:1313/en/posts/iseq-logo/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/iseq-logo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/1759249313183.jpg&#34; alt=&#34;ISEQ logo made from recycled IBM electronic components&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Well, it&amp;rsquo;s finally been revealed during the 7th annual meeting of ISEQ Pôle d&amp;rsquo;excellence de l&amp;rsquo;Industrie des Systèmes Électroniques du Québec. This logo was ordered many months ago, following the inauguration of a site in Sherbrooke last year, where my first logos were unveiled.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-ibm-connection&#34;&gt;The IBM Connection&lt;/h2&gt;&#xA;&lt;p&gt;Due to the proximity (and not just geographically) with IBM, Alexandra Tolza asked me to maximize IBM used parts to create that logo. This challenge pushed me to source authentic IBM components, transforming obsolete technology into a meaningful piece of art that represents the electronic systems industry in Quebec.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

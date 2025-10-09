@@ -1,0 +1,38 @@
+{{ $images := .Params.images }}
+{{ if $images }}
+<div class="carousel-container relative mb-8">
+    <div class="relative overflow-hidden rounded-lg shadow-lg bg-gray-900">
+        <!-- Carousel slides -->
+        <div class="carousel-slides flex items-center justify-center" style="min-height: 500px;">
+            {{ range $index, $image := $images }}
+            <div class="carousel-slide {{ if eq $index 0 }}active{{ end }} flex items-center justify-center w-full h-full absolute inset-0" data-slide="{{ $index }}">
+                <img src="{{ $image | relURL }}" alt="{{ $.Title }}" class="max-w-full max-h-full object-contain" style="max-height: 500px;">
+            </div>
+            {{ end }}
+        </div>
+
+        <!-- Navigation arrows -->
+        {{ if gt (len $images) 1 }}
+        <button class="carousel-prev absolute left-4 top-1/2 transform -translate-y-1/2 bg-white bg-opacity-90 hover:bg-opacity-100 rounded-full p-3 shadow-lg transition-all z-10" aria-label="Previous">
+            <svg class="w-6 h-6 text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+            </svg>
+        </button>
+        <button class="carousel-next absolute right-4 top-1/2 transform -translate-y-1/2 bg-white bg-opacity-90 hover:bg-opacity-100 rounded-full p-3 shadow-lg transition-all z-10" aria-label="Next">
+            <svg class="w-6 h-6 text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+        </button>
+        {{ end }}
+    </div>
+
+    <!-- Indicators -->
+    {{ if gt (len $images) 1 }}
+    <div class="carousel-indicators flex justify-center mt-4 gap-2">
+        {{ range $index, $image := $images }}
+        <button class="carousel-indicator w-3 h-3 rounded-full bg-gray-300 hover:bg-gray-400 transition-colors {{ if eq $index 0 }}active bg-blue-600{{ end }}" data-slide-to="{{ $index }}" aria-label="Go to slide {{ add $index 1 }}"></button>
+        {{ end }}
+    </div>
+    {{ end }}
+</div>
+{{ end }}

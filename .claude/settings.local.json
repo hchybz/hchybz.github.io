@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(hugo:*)",
+      "Bash(git init:*)",
+      "Bash(git submodule add:*)",
+      "Bash(cat:*)",
+      "Bash(.Site.GetPage \"fr/posts\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

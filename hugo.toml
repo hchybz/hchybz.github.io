@@ -1,0 +1,53 @@
+baseURL = '/'
+title = 'My Personal Blog'
+theme = 'chybz'
+defaultContentLanguage = 'en'
+
+[languages]
+  [languages.en]
+    languageCode = 'en'
+    languageName = 'English'
+    weight = 1
+    title = 'My Personal Blog'
+
+    [languages.en.params]
+      description = 'A personal blog about technology and more'
+
+    [[languages.en.menu.main]]
+      name = 'About'
+      url = '/en/about/'
+      weight = 10
+
+    [[languages.en.menu.main]]
+      name = 'Posts'
+      url = '/en/posts/'
+      weight = 20
+
+  [languages.fr]
+    languageCode = 'fr'
+    languageName = 'Français'
+    weight = 2
+    title = 'Mon Blog Personnel'
+
+    [languages.fr.params]
+      description = 'Un blog personnel sur la technologie et plus'
+
+    [[languages.fr.menu.main]]
+      name = 'À Propos'
+      url = '/fr/about/'
+      weight = 10
+
+    [[languages.fr.menu.main]]
+      name = 'Articles'
+      url = '/fr/posts/'
+      weight = 20
+
+[params]
+  author = 'Herve'
+  linkedin = 'chybzart'
+  instagram = 'chybzart'
+  color = 'linen'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'

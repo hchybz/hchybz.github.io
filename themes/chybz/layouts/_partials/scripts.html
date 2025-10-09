@@ -1,0 +1,5 @@
+<!-- JavaScript -->
+{{ $js := resources.Get "js/main.js" }}
+{{ if $js }}
+<script src="{{ $js.RelPermalink }}"></script>
+{{ end }}
