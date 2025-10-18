@@ -1,6 +1,6 @@
 +++
 title = 'ISEQ Logo: Art from Recycled IBM Components'
-date = '2024-12-01T00:00:00+00:00'
+date = '2025-08-30T00:00:00+00:00'
 draft = false
 lang = 'en'
 translationKey = 'iseq-logo'
@@ -9,10 +9,22 @@ description = "Unveiling a unique logo made from recycled IBM electronic compone
 tags = ['art', 'electronics', 'recycling', 'IBM', 'ISEQ']
 categories = ['Non IT']
 image = '/images/iseq/1759249313183.jpg'
-images = ['/images/iseq/1759249313183.jpg']
+images = [
+    '/images/iseq/1759249313183.jpg',
+    '/images/iseq/1759249314020.jpg',
+    '/images/iseq/1759249314039.jpg',
+    '/images/iseq/1759249314124.jpg',
+    '/images/iseq/1759249314133.jpg',
+    '/images/iseq/1759249314137.jpg',
+    '/images/iseq/1759249314533.jpg',
+    '/images/iseq/1759249314578.jpg',
+    '/images/iseq/1759249314838.jpg',
+    '/images/iseq/1759249315210.jpg',
+    '/images/iseq/1759249318666.jpg'
+]
 +++
 
-Well, it's finally been revealed during the 7th annual meeting of ISEQ Pôle d'excellence de l'Industrie des Systèmes Électroniques du Québec. This logo was ordered many months ago, following the inauguration of a site in Sherbrooke last year, where my first logos were unveiled.
+Well, it's finally been revealed during the 7th annual meeting of [ISEQ Pôle d'excellence de l'Industrie des Systèmes Électroniques du Québec](https://www.linkedin.com/company/pole-iseq/). This logo was ordered many months ago, following the inauguration of a site in Sherbrooke last year, where my first logos were unveiled.
 
 ## The IBM Connection
 

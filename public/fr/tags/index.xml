@@ -6,76 +6,104 @@
     <description>Recent content in Tags on Mon Blog Personnel</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Acier</title>
-      <link>//localhost:1313/fr/tags/acier/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/tags/acier/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Artisanat</title>
-      <link>//localhost:1313/fr/tags/artisanat/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/tags/artisanat/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chêne</title>
-      <link>//localhost:1313/fr/tags/ch%C3%AAne/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/tags/ch%C3%AAne/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Design</title>
-      <link>//localhost:1313/fr/tags/design/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/tags/design/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mobilier</title>
-      <link>//localhost:1313/fr/tags/mobilier/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/tags/mobilier/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Art</title>
       <link>//localhost:1313/fr/tags/art/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/tags/art/</guid>
       <description></description>
     </item>
     <item>
       <title>Électronique</title>
       <link>//localhost:1313/fr/tags/%C3%A9lectronique/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/tags/%C3%A9lectronique/</guid>
       <description></description>
     </item>
     <item>
       <title>IBM</title>
       <link>//localhost:1313/fr/tags/ibm/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/tags/ibm/</guid>
       <description></description>
     </item>
     <item>
       <title>ISEQ</title>
       <link>//localhost:1313/fr/tags/iseq/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/tags/iseq/</guid>
       <description></description>
     </item>
     <item>
       <title>Recyclage</title>
       <link>//localhost:1313/fr/tags/recyclage/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/tags/recyclage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acier</title>
+      <link>//localhost:1313/fr/tags/acier/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/acier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artisanat</title>
+      <link>//localhost:1313/fr/tags/artisanat/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/artisanat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chêne</title>
+      <link>//localhost:1313/fr/tags/ch%C3%AAne/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/ch%C3%AAne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>//localhost:1313/fr/tags/design/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobilier</title>
+      <link>//localhost:1313/fr/tags/mobilier/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/mobilier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decoupe Laser</title>
+      <link>//localhost:1313/fr/tags/decoupe-laser/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/decoupe-laser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Upcycling</title>
+      <link>//localhost:1313/fr/tags/upcycling/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/upcycling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soudure</title>
+      <link>//localhost:1313/fr/tags/soudure/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/soudure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thermolaquage</title>
+      <link>//localhost:1313/fr/tags/thermolaquage/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/thermolaquage/</guid>
       <description></description>
     </item>
   </channel>

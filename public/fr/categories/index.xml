@@ -6,13 +6,27 @@
     <description>Recent content in Categories on Mon Blog Personnel</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT</title>
+      <link>//localhost:1313/fr/categories/it/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/categories/it/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Non IT</title>
       <link>//localhost:1313/fr/categories/non-it/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/categories/non-it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projets</title>
+      <link>//localhost:1313/fr/categories/projets/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/categories/projets/</guid>
       <description></description>
     </item>
   </channel>

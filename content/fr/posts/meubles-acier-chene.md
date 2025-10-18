@@ -1,6 +1,6 @@
 +++
-title = 'Mobilier en Acier et Chêne : Durabilité et Design'
-date = '2025-01-16T00:00:00+00:00'
+title = 'Mobilier en Acier et Chêne'
+date = '2025-07-16T00:00:00+00:00'
 draft = false
 lang = 'fr'
 translationKey = 'steel-oak-furniture'

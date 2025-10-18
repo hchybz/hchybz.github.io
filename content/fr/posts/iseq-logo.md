@@ -1,18 +1,30 @@
 +++
 title = 'Logo ISEQ : Art à partir de composants IBM recyclés'
-date = '2024-12-01T00:00:00+00:00'
+date = '2025-08-30T00:00:00+00:00'
 draft = false
 lang = 'fr'
 translationKey = 'iseq-logo'
 author = 'Herve (ChybzArt)'
 description = "Dévoilement d'un logo unique réalisé avec des composants électroniques IBM recyclés pour l'ISEQ - Pôle d'excellence de l'Industrie des Systèmes Électroniques du Québec."
 tags = ['art', 'électronique', 'recyclage', 'IBM', 'ISEQ']
-categories = ['Non IT']
+categories = ['IT']
 image = '/images/iseq/1759249313183.jpg'
-images = ['/images/iseq/1759249313183.jpg']
+images = [
+    '/images/iseq/1759249313183.jpg',
+    '/images/iseq/1759249314020.jpg',
+    '/images/iseq/1759249314039.jpg',
+    '/images/iseq/1759249314124.jpg',
+    '/images/iseq/1759249314133.jpg',
+    '/images/iseq/1759249314137.jpg',
+    '/images/iseq/1759249314533.jpg',
+    '/images/iseq/1759249314578.jpg',
+    '/images/iseq/1759249314838.jpg',
+    '/images/iseq/1759249315210.jpg',
+    '/images/iseq/1759249318666.jpg'
+]
 +++
 
-Bon, ça y est, il a été enfin dévoilé lors de l'AGA de l'ISEQ Pôle d'excellence de l'Industrie des Systèmes Électroniques du Québec. Ce logo a été commandé il y a de nombreux mois, suite à l'inauguration d'un autre site l'année dernière à Sherbrooke, où mes premiers logos étaient dévoilés sur ce continent.
+Bon, ça y est, il a été enfin dévoilé lors de l'AGA de l'[ISEQ Pôle d'excellence de l'Industrie des Systèmes Électroniques du Québec](https://www.linkedin.com/company/pole-iseq/). Ce logo a été commandé il y a de nombreux mois, suite à l'inauguration d'un autre site l'année dernière à Sherbrooke, où mes premiers logos étaient dévoilés sur ce continent.
 
 ## La Connexion IBM
 

@@ -1,6 +1,6 @@
 +++
-title = 'Steel and Oak Furniture: Durability Meets Design'
-date = '2025-01-16T00:00:00+00:00'
+title = 'Steel and Oak Furniture'
+date = '2025-07-16T00:00:00+00:00'
 draft = false
 lang = 'en'
 translationKey = 'steel-oak-furniture'

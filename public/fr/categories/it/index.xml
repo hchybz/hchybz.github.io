@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT on Mon Blog Personnel</title>
+    <link>//localhost:1313/fr/categories/it/</link>
+    <description>Recent content in IT on Mon Blog Personnel</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/categories/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logo ISEQ : Art à partir de composants IBM recyclés</title>
+      <link>//localhost:1313/fr/fr/posts/iseq-logo/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/iseq-logo/</guid>
+      <description>&lt;p&gt;Bon, ça y est, il a été enfin dévoilé lors de l&amp;rsquo;AGA de l&amp;rsquo;&lt;a href=&#34;https://www.linkedin.com/company/pole-iseq/&#34;&gt;ISEQ Pôle d&amp;rsquo;excellence de l&amp;rsquo;Industrie des Systèmes Électroniques du Québec&lt;/a&gt;. Ce logo a été commandé il y a de nombreux mois, suite à l&amp;rsquo;inauguration d&amp;rsquo;un autre site l&amp;rsquo;année dernière à Sherbrooke, où mes premiers logos étaient dévoilés sur ce continent.&lt;/p&gt;&#xA;&lt;h2 id=&#34;la-connexion-ibm&#34;&gt;La Connexion IBM&lt;/h2&gt;&#xA;&lt;p&gt;De par sa proximité (et pas que géographique) avec IBM, Alexandra Tolza m&amp;rsquo;avait à l&amp;rsquo;époque demandé d&amp;rsquo;utiliser un maximum de pièces hors d&amp;rsquo;usage d&amp;rsquo;origine &amp;ldquo;IBM&amp;rdquo;. Ce défi m&amp;rsquo;a poussé à rechercher des composants IBM authentiques, transformant une technologie obsolète en une œuvre d&amp;rsquo;art significative qui représente l&amp;rsquo;industrie des systèmes électroniques au Québec.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo Ecole ECE</title>
+      <link>//localhost:1313/fr/fr/posts/logo-ece/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/logo-ece/</guid>
+      <description>&lt;p&gt;Donner du sens visuel à une collaboration engagée, voilà le cœur de ce projet.&lt;/p&gt;&#xA;&lt;p&gt;🤝 Pour célébrer le partenariat entre une startup High-Tech &lt;a href=&#34;https://www.linkedin.com/company/exaion/&#34;&gt;EXAION&lt;/a&gt; et l’école d’ingénieurs &lt;a href=&#34;https://www.linkedin.com/school/ece-ecole-ingenieurs/&#34;&gt;ECE&lt;/a&gt;, ce logo a été imaginé comme le symbole d’un échange technique et durable.&lt;/p&gt;&#xA;&lt;p&gt;🔧 Une création originale mêlant recyclage high-tech et design innovant, illustrant à la fois l’ancrage technologique et la dimension pédagogique du projet.&lt;/p&gt;&#xA;&lt;p&gt;Première création avec des circuits imprimés noirs, issus de cartes mères de minage&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
