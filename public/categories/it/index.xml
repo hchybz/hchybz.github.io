@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT on My Personal Blog</title>
+    <link>//localhost:1313/categories/it/</link>
+    <description>Recent content in IT on My Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ECE School Logo</title>
+      <link>//localhost:1313/en/posts/ece-logo/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/ece-logo/</guid>
+      <description>&lt;p&gt;Giving visual meaning to a committed collaboration, that&amp;rsquo;s the heart of this project.&lt;/p&gt;&#xA;&lt;p&gt;🤝 To celebrate the partnership between the High-Tech startup &lt;a href=&#34;https://www.linkedin.com/company/exaion/&#34;&gt;EXAION&lt;/a&gt; and the engineering school &lt;a href=&#34;https://www.linkedin.com/school/ece-ecole-ingenieurs/&#34;&gt;ECE&lt;/a&gt;, this logo was conceived as the symbol of a technical and sustainable exchange.&lt;/p&gt;&#xA;&lt;p&gt;🔧 An original creation mixing high-tech recycling and innovative design, illustrating both the technological foundation and the educational dimension of the project.&lt;/p&gt;&#xA;&lt;p&gt;First creation with black printed circuit boards, from mining motherboards&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

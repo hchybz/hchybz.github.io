@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upcycling on My Personal Blog</title>
+    <link>//localhost:1313/tags/upcycling/</link>
+    <description>Recent content in Upcycling on My Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/upcycling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BULL Bench Project</title>
+      <link>//localhost:1313/en/posts/bull-bench/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/bull-bench/</guid>
+      <description>&lt;h2 id=&#34;another-era&#34;&gt;Another Era&lt;/h2&gt;&#xA;&lt;p&gt;Attention to enthusiasts with graying hair: who still has this kind of chip in their infrastructure?&lt;/p&gt;&#xA;&lt;p&gt;What are these magical cards that were the pride of &lt;a href=&#34;https://www.linkedin.com/company/bull/&#34;&gt;Bull&lt;/a&gt;?&lt;/p&gt;&#xA;&lt;p&gt;A whole beautiful era unfortunately gone&amp;hellip; but it can be immortalized a bit.&lt;/p&gt;&#xA;&lt;p&gt;There must be a manager who would be happy to have this kind of memory at their Bull or Atos site or a client site.&lt;/p&gt;&#xA;&lt;p&gt;(I can only make 2 at most, so it&amp;rsquo;s FIFO mode)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
