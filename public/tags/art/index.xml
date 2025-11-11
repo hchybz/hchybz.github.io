@@ -10,9 +10,9 @@
     <atom:link href="//localhost:1313/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ISEQ Logo: Art from Recycled IBM Components</title>
-      <link>//localhost:1313/en/posts/iseq-logo/</link>
+      <link>//localhost:1313/en/posts/logo-iseq/</link>
       <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/posts/iseq-logo/</guid>
+      <guid>//localhost:1313/en/posts/logo-iseq/</guid>
       <description>&lt;p&gt;Well, it&amp;rsquo;s finally been revealed during the 7th annual meeting of &lt;a href=&#34;https://www.linkedin.com/company/pole-iseq/&#34;&gt;ISEQ Pôle d&amp;rsquo;excellence de l&amp;rsquo;Industrie des Systèmes Électroniques du Québec&lt;/a&gt;. This logo was ordered many months ago, following the inauguration of a site in Sherbrooke last year, where my first logos were unveiled.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-ibm-connection&#34;&gt;The IBM Connection&lt;/h2&gt;&#xA;&lt;p&gt;Due to the proximity (and not just geographically) with IBM, Alexandra Tolza asked me to maximize IBM used parts to create that logo. This challenge pushed me to source authentic IBM components, transforming obsolete technology into a meaningful piece of art that represents the electronic systems industry in Quebec.&lt;/p&gt;</description>
     </item>
   </channel>

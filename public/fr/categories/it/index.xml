@@ -6,13 +6,20 @@
     <description>Recent content in IT on Mon Blog Personnel</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/fr/categories/it/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Presse Papier personnalisé - radiateurs HPC</title>
+      <link>//localhost:1313/fr/fr/posts/presse-papier/</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/presse-papier/</guid>
+      <description>&lt;p&gt;1ère sortie officielle de ce prototype de presse-papiers réalisé il y a 18 mois pour une occasion particulière (mes collègues de Exaion vont reconnaître)&lt;/p&gt;&#xA;&lt;p&gt;Après plusieurs essais et échecs, la version finale semble plutôt réussie (un grand merci à Emmanuel RIVET pour sa patience et la qualité de son travail de gravure)&lt;/p&gt;&#xA;&lt;p&gt;Pas de gravure laser sur du cuivre et un QRcode usiné à la CNC n’est pas lisible par un smartphone.&#xA;D’ou le mix des 2.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Logo ISEQ : Art à partir de composants IBM recyclés</title>
-      <link>//localhost:1313/fr/fr/posts/iseq-logo/</link>
+      <link>//localhost:1313/fr/fr/posts/logo-iseq/</link>
       <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fr/fr/posts/iseq-logo/</guid>
+      <guid>//localhost:1313/fr/fr/posts/logo-iseq/</guid>
       <description>&lt;p&gt;Bon, ça y est, il a été enfin dévoilé lors de l&amp;rsquo;AGA de l&amp;rsquo;&lt;a href=&#34;https://www.linkedin.com/company/pole-iseq/&#34;&gt;ISEQ Pôle d&amp;rsquo;excellence de l&amp;rsquo;Industrie des Systèmes Électroniques du Québec&lt;/a&gt;. Ce logo a été commandé il y a de nombreux mois, suite à l&amp;rsquo;inauguration d&amp;rsquo;un autre site l&amp;rsquo;année dernière à Sherbrooke, où mes premiers logos étaient dévoilés sur ce continent.&lt;/p&gt;&#xA;&lt;h2 id=&#34;la-connexion-ibm&#34;&gt;La Connexion IBM&lt;/h2&gt;&#xA;&lt;p&gt;De par sa proximité (et pas que géographique) avec IBM, Alexandra Tolza m&amp;rsquo;avait à l&amp;rsquo;époque demandé d&amp;rsquo;utiliser un maximum de pièces hors d&amp;rsquo;usage d&amp;rsquo;origine &amp;ldquo;IBM&amp;rdquo;. Ce défi m&amp;rsquo;a poussé à rechercher des composants IBM authentiques, transformant une technologie obsolète en une œuvre d&amp;rsquo;art significative qui représente l&amp;rsquo;industrie des systèmes électroniques au Québec.&lt;/p&gt;</description>
     </item>
     <item>
@@ -21,6 +28,76 @@
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/fr/fr/posts/logo-ece/</guid>
       <description>&lt;p&gt;Donner du sens visuel à une collaboration engagée, voilà le cœur de ce projet.&lt;/p&gt;&#xA;&lt;p&gt;🤝 Pour célébrer le partenariat entre une startup High-Tech &lt;a href=&#34;https://www.linkedin.com/company/exaion/&#34;&gt;EXAION&lt;/a&gt; et l’école d’ingénieurs &lt;a href=&#34;https://www.linkedin.com/school/ece-ecole-ingenieurs/&#34;&gt;ECE&lt;/a&gt;, ce logo a été imaginé comme le symbole d’un échange technique et durable.&lt;/p&gt;&#xA;&lt;p&gt;🔧 Une création originale mêlant recyclage high-tech et design innovant, illustrant à la fois l’ancrage technologique et la dimension pédagogique du projet.&lt;/p&gt;&#xA;&lt;p&gt;Première création avec des circuits imprimés noirs, issus de cartes mères de minage&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo PINQ² - HPC Lenovo</title>
+      <link>//localhost:1313/fr/fr/posts/logo-pinq-hpc/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/logo-pinq-hpc/</guid>
+      <description>&lt;p&gt;Repenser l&amp;rsquo;identité digitale à travers le prisme du recyclage et du design circulaire, c’est le défi relevé avec ce projet pour l&amp;rsquo;inauguration de ce HPC et de cette salle à l&amp;rsquo;hiver 2024.&lt;/p&gt;&#xA;&lt;p&gt;🔧 Le logo PINQ fusionne design moderne, upcycling high-tech et innovation pour incarner une identité digitale forte et engagée : c&amp;rsquo;est le premier avec des composants en 3D (radiateurs, DIMM) ajoutés sur les cartes electroniques découpées.&lt;/p&gt;&#xA;&lt;p&gt;💡 Cette création réaffirme qu’il est possible de renforcer innovation et une démarche écoresponsable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo PINQ² - Visuel Porte</title>
+      <link>//localhost:1313/fr/fr/posts/logo-pinq-porte/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/logo-pinq-porte/</guid>
+      <description>&lt;p&gt;Repenser l&amp;rsquo;identité digitale à travers le prisme du recyclage et du design circulaire, c’est le défi relevé avec ce projet pour l&amp;rsquo;inauguration de ce HPC et de cette salle à l&amp;rsquo;hiver 2024.&lt;/p&gt;&#xA;&lt;p&gt;🔧 Le logo PINQ fusionne design moderne, upcycling high-tech et innovation pour incarner une identité digitale forte et engagée : c&amp;rsquo;est le premier avec des composants en 3D (radiateurs, DIMM) ajoutés sur les cartes electroniques découpées.&lt;/p&gt;&#xA;&lt;p&gt;💡 Cette création réaffirme qu’il est possible de renforcer innovation et une démarche écoresponsable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Table de support d une maquette LEGO de DataCenter</title>
+      <link>//localhost:1313/fr/fr/posts/table-lego/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/table-lego/</guid>
+      <description>&lt;p&gt;Certainement la plus plus grandes / belle de mes créations. Des mois de gestations et de tri, de déassamblage, de découpe de composants..&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Table basse - FMD Hitachi</title>
+      <link>//localhost:1313/fr/fr/posts/table-fmd/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/table-fmd/</guid>
+      <description>&lt;h2 id=&#34;en-prévision-dune-grande-soeur&#34;&gt;En prévision d&amp;rsquo;une grande soeur&lt;/h2&gt;&#xA;&lt;p&gt;Prototype pour une eventuelle et future table de réunion de 12 personnes. Cette petite table basse permet de montrer ce que rendent 8 disques FMD (Flash Memory Module) Hitachi. Comment le calepinage et la strucutre acier doivent être montés.  Verre Securit 4mm.&lt;/p&gt;&#xA;&lt;p&gt;Celle-ci peut-être vendue.&lt;/p&gt;&#xA;&lt;p&gt;Pour les electroniciens nostalgiques aux cheveux grissonants&amp;hellip; chaque condensateur violet fait 30 farad, ce qui est absolument énorme (200 farad) et même potentiellement dangereux quand le disque est retiré de son chassis et que les capacités ne sont pas vidées.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo EXAION - Bureau et DataCenter</title>
+      <link>//localhost:1313/fr/fr/posts/logo-exaion-qc1/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/logo-exaion-qc1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logo EXAION - Bac Submer</title>
+      <link>//localhost:1313/fr/fr/posts/logo-exaion-bac/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/logo-exaion-bac/</guid>
+      <description>&lt;p&gt;Blabla&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meuble à casiers - cache ARISTA</title>
+      <link>//localhost:1313/fr/fr/posts/casier-arista/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/casier-arista/</guid>
+      <description>&lt;p&gt;Avant de finir dans une classoque benne &amp;ldquo;métaux&amp;rdquo;, ces caches pour garantir la ventilation des chassis ARISTA ainsi que ces rails propriétaires Hitachi (qui ne se montent que sur des racks Hitachi), ont trouvé une seconde-première vie dans mon atelier.&lt;/p&gt;&#xA;&lt;p&gt;Apres transformation des caches pour les rendre &amp;ldquo;fermés&amp;rdquo;. et un peu de méthode pour faire une série de 64 casiers.. un meuble &amp;ldquo;à cases&amp;rdquo;. Attention au poids&amp;hellip; fixation murale obligatoire.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo EXAION - Rack</title>
+      <link>//localhost:1313/fr/fr/posts/logo-exaion-noe/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/logo-exaion-noe/</guid>
+      <description>&lt;p&gt;Le premier logo sur porte grillagée de rack informatique. Valide la méthode des entretoises de fixation et du plan A0 découpé&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;A cette époque, les composants de surface étaient retirés à la Dremel ou au tournevis. Donc pas d&amp;rsquo;effet 3D comme dans les prochains.  Mais moins de risques d&amp;rsquo;abimer le logo en faisant la maintenances des équipements du rack.&lt;/p&gt;&#xA;&lt;p&gt;Est toujours à l&amp;rsquo;entrée de la salle informatique pour une effet waouh garanti !&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Table basse - SSD 3PAR</title>
+      <link>//localhost:1313/fr/fr/posts/table-3par/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/table-3par/</guid>
+      <description>&lt;p&gt;Spéciale dédicace à &lt;a href=&#34;https://www.linkedin.com/company/antemeta/&#34;&gt;AntemetA&lt;/a&gt; et aux années &lt;a href=&#34;https://www.linkedin.com/in/stephane-blanc&#34;&gt;Stéphane BLANC&lt;/a&gt;, grand visionnaire d’une belle époque . 3PAR restera l&amp;rsquo;une des plus belles technologies et innovations de notre génération.&lt;/p&gt;&#xA;&lt;p&gt;Cette table qui est dans le hall de &lt;a href=&#34;https://www.linkedin.com/company/orness/&#34;&gt;ORNESS&lt;/a&gt; accueille tous les passionnés&lt;/p&gt;&#xA;&lt;p&gt;Je peux encore faire la meêe, il me reste pile 12 SSD.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dimensions : ~35 x 35 w 33 cm&lt;/li&gt;&#xA;&lt;li&gt;Poids : 7kg&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Meuble TV/Ampli - HPC DELL</title>
+      <link>//localhost:1313/fr/fr/posts/meuble-tv/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/meuble-tv/</guid>
+      <description>&lt;p&gt;Lors du déménagement de ce HPC d&amp;rsquo;une salle vers une autre.. les premières lames HS ont été mises de cotés&amp;hellip;. une fois les composants récupérés, les carcasses de lames auraient du aller dans la benne DIB&amp;hellip; Elles ont finalement été utilisées pour faire un meuble TV/Ampli. Celui ci est le premier d&amp;rsquo;une série à utiliser ce concept de chassis métallique avec des composants IT et un verre au dessus.&lt;/p&gt;&#xA;&lt;p&gt;Possibilité d&amp;rsquo;en refaire d&amp;rsquo;autres.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

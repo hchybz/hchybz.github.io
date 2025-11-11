@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/fr/tags/art/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,10 +16,10 @@
                 />
   </url><url>
     <loc>//localhost:1313/fr/fr/posts/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/fr/categories/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,10 +32,10 @@
                 />
   </url><url>
     <loc>//localhost:1313/fr/tags/%C3%A9lectronique/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/fr/fr/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,7 +48,7 @@
                 />
   </url><url>
     <loc>//localhost:1313/fr/tags/ibm/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -58,6 +58,64 @@
                 rel="alternate"
                 hreflang="fr"
                 href="//localhost:1313/fr/tags/ibm/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/tags/idataplex/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/categories/it/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/categories/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/categories/it/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/presse-papier/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/recyclage/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/tags/recyclage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/tags/recyclage/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/tags/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/tags/"
                 />
   </url><url>
     <loc>//localhost:1313/fr/tags/iseq/</loc>
@@ -73,49 +131,17 @@
                 href="//localhost:1313/fr/tags/iseq/"
                 />
   </url><url>
-    <loc>//localhost:1313/fr/categories/it/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/fr/posts/iseq-logo/</loc>
+    <loc>//localhost:1313/fr/fr/posts/logo-iseq/</loc>
     <lastmod>2025-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/posts/iseq-logo/"
+                href="//localhost:1313/en/posts/logo-iseq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/fr/posts/iseq-logo/"
-                />
-  </url><url>
-    <loc>//localhost:1313/fr/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/"
-                />
-  </url><url>
-    <loc>//localhost:1313/fr/tags/recyclage/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/fr/tags/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/tags/"
+                href="//localhost:1313/fr/fr/posts/logo-iseq/"
                 />
   </url><url>
     <loc>//localhost:1313/fr/tags/acier/</loc>
@@ -143,7 +169,7 @@
     <loc>//localhost:1313/fr/tags/mobilier/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/fr/fr/posts/meubles-acier-chene/</loc>
+    <loc>//localhost:1313/fr/fr/posts/meubles-anneso/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -153,7 +179,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/fr/posts/meubles-acier-chene/"
+                href="//localhost:1313/fr/fr/posts/meubles-anneso/"
                 />
   </url><url>
     <loc>//localhost:1313/fr/categories/non-it/</loc>
@@ -174,6 +200,16 @@
   </url><url>
     <loc>//localhost:1313/fr/fr/posts/portes-myria/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/myria-doors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/portes-myria/"
+                />
   </url><url>
     <loc>//localhost:1313/fr/categories/projets/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
@@ -182,8 +218,8 @@
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/fr/posts/banc-bull/"
+                hreflang="en"
+                href="//localhost:1313/en/posts/logo-ece/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -193,13 +229,23 @@
   </url><url>
     <loc>//localhost:1313/fr/tags/upcycling/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/tags/upcycling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/tags/upcycling/"
+                />
   </url><url>
     <loc>//localhost:1313/fr/fr/posts/banc-bull/</loc>
     <lastmod>2025-04-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/fr/posts/logo-ece/"
+                hreflang="en"
+                href="//localhost:1313/en/posts/bull-bench/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -207,13 +253,162 @@
                 href="//localhost:1313/fr/fr/posts/banc-bull/"
                 />
   </url><url>
+    <loc>//localhost:1313/fr/tags/hpc/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/logo-pinq-hpc/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/logo-pinq-porte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/logo-pinq-hpc/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/logo-pinq-porte/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/logo-pinq-hpc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/logo-pinq-porte/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/tags/engrenage/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/table-lego/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/fr/fr/posts/potences/</loc>
     <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/garden-brackets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/potences/"
+                />
   </url><url>
     <loc>//localhost:1313/fr/tags/soudure/</loc>
     <lastmod>2024-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/fr/tags/thermolaquage/</loc>
     <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/3par/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/fmd/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/hitachi/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/table-fmd/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/lampe/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/lampe-vase-expansion/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/led/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/vase-expansion/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/3d/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/datacenter/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/logo-exaion-qc1/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/immersion-cooling/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/tags/immersion-cooling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/tags/immersion-cooling/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/logo-exaion-bac/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/logo-exaion-bac/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/logo-exaion-bac/"
+                />
+  </url><url>
+    <loc>//localhost:1313/fr/tags/ado/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/bureaux/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/bureaux/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/chene/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/corniere/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/echelle-yann/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/escalier/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/casier-arista/</loc>
+    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/rack/</loc>
+    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/logo-exaion-noe/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/tags/ssd/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/table-3par/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/infinite-cube/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/meuble-tv/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/fr/posts/table-de-nuit/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>

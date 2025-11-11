@@ -57,17 +57,30 @@
                 href="//localhost:1313/tags/iseq/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/posts/iseq-logo/</loc>
+    <loc>//localhost:1313/en/posts/logo-iseq/</loc>
     <lastmod>2025-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/fr/posts/iseq-logo/"
+                href="//localhost:1313/fr/fr/posts/logo-iseq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/posts/iseq-logo/"
+                href="//localhost:1313/en/posts/logo-iseq/"
+                />
+  </url><url>
+    <loc>//localhost:1313/categories/it/</loc>
+    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/categories/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/categories/it/"
                 />
   </url><url>
     <loc>//localhost:1313/</loc>
@@ -85,19 +98,6 @@
   </url><url>
     <loc>//localhost:1313/en/</loc>
     <lastmod>2025-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/non-it/</loc>
-    <lastmod>2025-08-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/categories/non-it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/categories/non-it/"
-                />
   </url><url>
     <loc>//localhost:1313/en/posts/</loc>
     <lastmod>2025-08-30T00:00:00+00:00</lastmod>
@@ -137,6 +137,19 @@
     <loc>//localhost:1313/tags/furniture/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/non-it/</loc>
+    <lastmod>2025-07-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/categories/non-it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/categories/non-it/"
+                />
+  </url><url>
     <loc>//localhost:1313/tags/oak/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -148,12 +161,128 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/fr/posts/meubles-acier-chene/"
+                href="//localhost:1313/fr/fr/posts/meubles-anneso/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/posts/steel-oak-furniture/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/posts/myria-doors/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/portes-myria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/myria-doors/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/laser-cutting/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/projects/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/posts/logo-ece/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/logo-ece/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/logo-ece/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/upcycling/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/tags/upcycling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/tags/upcycling/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/posts/bull-bench/</loc>
+    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/banc-bull/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/bull-bench/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/posts/garden-brackets/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/potences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/garden-brackets/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/powder-coating/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/welding/</loc>
+    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/en/posts/logo-exaion-bac/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/fr/posts/logo-exaion-bac/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/posts/logo-exaion-bac/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/immersion-cooling/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/tags/immersion-cooling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/tags/immersion-cooling/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/recyclage/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//localhost:1313/fr/tags/recyclage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/tags/recyclage/"
                 />
   </url><url>
     <loc>//localhost:1313/fr/</loc>

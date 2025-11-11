@@ -8,19 +8,19 @@ author = 'Herve (ChybzArt)'
 description = "Custom furniture series made from steel and laminated oak - table, benches and coffee table built to last."
 tags = ['furniture', 'steel', 'oak', 'design', 'craftsmanship']
 categories = ['Non IT']
-image = '/images/meuble/1757965442561.jpg'
+image = '/images/meubles-anneso/meubles-anneso-1.jpg'
 images = [
-    '/images/meuble/1757965442561.jpg',
-    '/images/meuble/1757965438331.jpg',
-    '/images/meuble/1757965441039.jpg',
-    '/images/meuble/1757965441656.jpg',
-    '/images/meuble/1757965441732.jpg',
-    '/images/meuble/1757965441843.jpg',
-    '/images/meuble/1757965441893.jpg',
-    '/images/meuble/1757965442034.jpg',
-    '/images/meuble/1757965442137.jpg',
-    '/images/meuble/1757965442511.jpg',
-    '/images/meuble/1757965443036.jpg'
+    '/images/meubles-anneso/meubles-anneso-1.jpg',
+    '/images/meubles-anneso/meubles-anneso-2.jpg',
+    '/images/meubles-anneso/meubles-anneso-3.jpg',
+    '/images/meubles-anneso/meubles-anneso-4.jpg',
+    '/images/meubles-anneso/meubles-anneso-5.jpg',
+    '/images/meubles-anneso/meubles-anneso-6.jpg',
+    '/images/meubles-anneso/meubles-anneso-7.jpg',
+    '/images/meubles-anneso/meubles-anneso-8.jpg',
+    '/images/meubles-anneso/meubles-anneso-9.jpg',
+    '/images/meubles-anneso/meubles-anneso-10.jpg',
+    '/images/meubles-anneso/meubles-anneso-11.jpg',
 ]
 +++
 

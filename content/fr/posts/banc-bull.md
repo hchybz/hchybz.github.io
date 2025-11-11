@@ -1,9 +1,9 @@
 +++
-title = 'Projet de Banc BULL'
+title = 'Projet de banc BULL'
 date = '2025-04-26T00:00:00+00:00'
 draft = false
 lang = 'fr'
-translationKey = 'logo-ece'
+translationKey = 'bull-bench'
 author = 'Herve (ChybzArt)'
 description = "Projet de banc avec des facades métalliques de serveurs Bullion B"
 tags = ['recyclage', 'upcycling']

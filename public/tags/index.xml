@@ -78,5 +78,47 @@
       <guid>//localhost:1313/tags/steel/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Laser Cutting</title>
+      <link>//localhost:1313/tags/laser-cutting/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/laser-cutting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Upcycling</title>
+      <link>//localhost:1313/tags/upcycling/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/upcycling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Powder Coating</title>
+      <link>//localhost:1313/tags/powder-coating/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/powder-coating/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Welding</title>
+      <link>//localhost:1313/tags/welding/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/welding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Immersion Cooling</title>
+      <link>//localhost:1313/tags/immersion-cooling/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/immersion-cooling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recyclage</title>
+      <link>//localhost:1313/tags/recyclage/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/recyclage/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

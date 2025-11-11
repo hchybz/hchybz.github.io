@@ -8,19 +8,19 @@ author = 'Herve (ChybzArt)'
 description = "Dévoilement d'un logo unique réalisé avec des composants électroniques IBM recyclés pour l'ISEQ - Pôle d'excellence de l'Industrie des Systèmes Électroniques du Québec."
 tags = ['art', 'électronique', 'recyclage', 'IBM', 'ISEQ']
 categories = ['IT']
-image = '/images/iseq/1759249313183.jpg'
+image = '/images/logo-iseq/logo-iseq-1.jpg'
 images = [
-    '/images/iseq/1759249313183.jpg',
-    '/images/iseq/1759249314020.jpg',
-    '/images/iseq/1759249314039.jpg',
-    '/images/iseq/1759249314124.jpg',
-    '/images/iseq/1759249314133.jpg',
-    '/images/iseq/1759249314137.jpg',
-    '/images/iseq/1759249314533.jpg',
-    '/images/iseq/1759249314578.jpg',
-    '/images/iseq/1759249314838.jpg',
-    '/images/iseq/1759249315210.jpg',
-    '/images/iseq/1759249318666.jpg'
+    '/images/logo-iseq/logo-iseq-1.jpg',
+    '/images/logo-iseq/logo-iseq-2.jpg',
+    '/images/logo-iseq/logo-iseq-3.jpg',
+    '/images/logo-iseq/logo-iseq-4.jpg',
+    '/images/logo-iseq/logo-iseq-5.jpg',
+    '/images/logo-iseq/logo-iseq-6.jpg',
+    '/images/logo-iseq/logo-iseq-7.jpg',
+    '/images/logo-iseq/logo-iseq-8.jpg',
+    '/images/logo-iseq/logo-iseq-9.jpg',
+    '/images/logo-iseq/logo-iseq-10.jpg',
+    '/images/logo-iseq/logo-iseq-11.jpg',
 ]
 +++
 

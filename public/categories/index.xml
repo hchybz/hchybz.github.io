@@ -9,10 +9,24 @@
     <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>IT</title>
+      <link>//localhost:1313/categories/it/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/it/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Non IT</title>
       <link>//localhost:1313/categories/non-it/</link>
-      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/non-it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/categories/projects/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/projects/</guid>
       <description></description>
     </item>
   </channel>
