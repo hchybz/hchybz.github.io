@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on Mon Blog Personnel</title>
+    <link>//localhost:1313/fr/categories/projets/</link>
+    <description>Recent content in Projets on Mon Blog Personnel</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/categories/projets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portes rack informatique ATOS</title>
+      <link>//localhost:1313/fr/fr/posts/portes-myria/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/portes-myria/</guid>
+      <description>&lt;p&gt;L’une des dernières séries de portes metal découpées au laser que BULL/ATOS mettaient sur ses racks Sequana.&lt;/p&gt;&#xA;&lt;p&gt;Comme pour les façades métalliques des bullion B (dernier post), tout ceci a été abandonné et remplacé par du plastique.. dommage mais compréhensible..&lt;/p&gt;&#xA;&lt;p&gt;Ces 40 portes vont servir de base à des nouvelles créations, meubles, lampes et autres déco murales&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projet de banc BULL</title>
+      <link>//localhost:1313/fr/fr/posts/banc-bull/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/banc-bull/</guid>
+      <description>&lt;h2 id=&#34;une-autre-époque&#34;&gt;Une autre époque&lt;/h2&gt;&#xA;&lt;p&gt;Avis aux passionnés ayant des cheveux grisonnants : qui a encore ce genre de puce dans son infrastructure ?&lt;/p&gt;&#xA;&lt;p&gt;Quelles sont ces cartes magiques qui ont fait la fierté de &lt;a href=&#34;https://www.linkedin.com/company/bull/&#34;&gt;Bull&lt;/a&gt; ?&lt;/p&gt;&#xA;&lt;p&gt;Toute une belle époque malheureusement révolue … mais elle peut être immortalisée un peu.&lt;/p&gt;&#xA;&lt;p&gt;Il doit bien y avoir un.e responsable qui serait heureux d avoir ce genre de souvenir sur son site Bull ou Atos ou un site client&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lampe vase d expansion</title>
+      <link>//localhost:1313/fr/fr/posts/lampe-vase-expansion/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/lampe-vase-expansion/</guid>
+      <description>&lt;p&gt;Lors du changement des vases d&amp;rsquo;expansion sur un site industriel, récupération avant d&amp;rsquo;etre mis à la benne.&#xA;Un chance de trouver une plaque LED sur une &amp;ldquo;marketplace&amp;rdquo; chinoise qui fait pile le diamètre&lt;/p&gt;&#xA;&lt;p&gt;En solo avec un pied en tube de plomberie décoratif ou pour un très gros lustre répartis autour d&amp;rsquo;un cerclage de roue de charrette.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Led on Mon Blog Personnel</title>
+    <link>//localhost:1313/fr/tags/led/</link>
+    <description>Recent content in Led on Mon Blog Personnel</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/tags/led/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lampe vase d expansion</title>
+      <link>//localhost:1313/fr/fr/posts/lampe-vase-expansion/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/lampe-vase-expansion/</guid>
+      <description>&lt;p&gt;Lors du changement des vases d&amp;rsquo;expansion sur un site industriel, récupération avant d&amp;rsquo;etre mis à la benne.&#xA;Un chance de trouver une plaque LED sur une &amp;ldquo;marketplace&amp;rdquo; chinoise qui fait pile le diamètre&lt;/p&gt;&#xA;&lt;p&gt;En solo avec un pied en tube de plomberie décoratif ou pour un très gros lustre répartis autour d&amp;rsquo;un cerclage de roue de charrette.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
