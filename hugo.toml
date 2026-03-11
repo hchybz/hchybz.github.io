@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://hchybz.github.io/'
 title = 'My Personal Blog'
 theme = 'chybz'
 defaultContentLanguage = 'en'
