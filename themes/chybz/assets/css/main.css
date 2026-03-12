@@ -55,15 +55,15 @@
 
 /* Responsive grid adjustments for masonry effect */
 @media (min-width: 768px) {
-    .grid > article:nth-child(3n+1) img {
+    .grid > article:nth-child(3n + 1) img {
         height: 12rem; /* h-48 */
     }
 
-    .grid > article:nth-child(3n+2) img {
+    .grid > article:nth-child(3n + 2) img {
         height: 16rem; /* h-64 */
     }
 
-    .grid > article:nth-child(3n+3) img {
+    .grid > article:nth-child(3n + 3) img {
         height: 10rem; /* h-40 */
     }
 }
@@ -140,6 +140,7 @@ article:hover a {
     color: #2563eb;
     text-decoration: underline;
     font-weight: 500;
+    display: inline;
 }
 
 .prose a:hover {
@@ -185,7 +186,7 @@ article:hover a {
     color: #111827;
     border-left-width: 0.25rem;
     border-left-color: #e5e7eb;
-    quotes: "\201C""\201D""\2018""\2019";
+    quotes: "\201C" "\201D" "\2018" "\2019";
     margin-top: 1.6em;
     margin-bottom: 1.6em;
     padding-left: 1em;
@@ -260,8 +261,6 @@ article:hover a {
     margin-bottom: 1.0666667em;
     line-height: 1.3333333;
 }
-
-
 
 /* Carousel Styles */
 .carousel-slides {
