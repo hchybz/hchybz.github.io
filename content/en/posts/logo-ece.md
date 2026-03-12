@@ -8,17 +8,17 @@ author = 'Herve (ChybzArt)'
 description = "ECE Logo - Partnership with EXAION."
 tags = ['recycling', 'upcycling']
 categories = ['IT']
-image = '/images/ece/ece-1.jpg'
+image = '/images/logo-ece/ece-1.jpg'
 images = [
-    '/images/ece/ece-1.jpg',
-    '/images/ece/ece-2.jpg',
-    '/images/ece/ece-3.jpg',
-    '/images/ece/ece-4.jpg',
-    '/images/ece/ece-5.jpg',
-    '/images/ece/ece-6.jpg',
-    '/images/ece/ece-7.jpg',
-    '/images/ece/ece-8.jpg',
-    '/images/ece/ece-9.jpg'
+    '/images/logo-ece/ece-1.jpg',
+    '/images/logo-ece/ece-2.jpg',
+    '/images/logo-ece/ece-3.jpg',
+    '/images/logo-ece/ece-4.jpg',
+    '/images/logo-ece/ece-5.jpg',
+    '/images/logo-ece/ece-6.jpg',
+    '/images/logo-ece/ece-7.jpg',
+    '/images/logo-ece/ece-8.jpg',
+    '/images/logo-ece/ece-9.jpg'
 ]
 +++
 
