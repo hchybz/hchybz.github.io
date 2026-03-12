@@ -19,8 +19,10 @@
 {{ end }}
 
 <!-- GoatCounter Analytics -->
+{{ with site.Params.goatcounter }}
 <script
-    data-goatcounter="https://chybzart.goatcounter.com/count"
+    data-goatcounter="https://{{ . }}.goatcounter.com/count"
     async
     src="//gc.zgo.at/count.js"
 ></script>
+{{ end }}
