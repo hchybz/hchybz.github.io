@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Personal Blog</title><link>https://chybz.art/en/</link><description>Recent content on My Personal Blog</description><generator>Hugo</generator><language>en</language><atom:link href="https://chybz.art/en/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Personal Blog</title><link>https://chybz.art/en/</link><description>Recent content on My Personal Blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://chybz.art/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Site Statistics</title><link>https://chybz.art/en/statistics/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://chybz.art/en/statistics/</guid><description>&lt;h1 id="site-traffic-statistics"&gt;Site Traffic Statistics&lt;/h1&gt;
+&lt;p&gt;Welcome to the statistics page! Here you can discover the traffic data of my website.&lt;/p&gt;
+&lt;p&gt;These statistics are collected in a &lt;strong&gt;privacy-friendly&lt;/strong&gt; way thanks to &lt;a href="https://www.goatcounter.com"&gt;GoatCounter&lt;/a&gt;, an open source tool that requires no cookies and is GDPR compliant.&lt;/p&gt;
+&lt;h2 id="collected-data"&gt;Collected Data&lt;/h2&gt;
+&lt;p&gt;The following information is collected anonymously:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Number of visitors&lt;/li&gt;
+&lt;li&gt;📄 Most viewed pages&lt;/li&gt;
+&lt;li&gt;🌍 Countries of origin (based on IP address, but without storing it)&lt;/li&gt;
+&lt;li&gt;🖥️ Browsers and operating systems used&lt;/li&gt;
+&lt;li&gt;📱 Device types (computer, mobile, tablet)&lt;/li&gt;
+&lt;li&gt;🔗 Traffic sources (where visitors come from)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Important:&lt;/strong&gt; No personal data is collected. No cookies, no individual tracking, no data selling.&lt;/p&gt;</description></item></channel></rss>

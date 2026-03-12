@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bureaux on Mon Blog Personnel</title>
+    <link>//localhost:1313/fr/tags/bureaux/</link>
+    <description>Recent content in Bureaux on Mon Blog Personnel</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/tags/bureaux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bureaux Ados style Pinterest</title>
+      <link>//localhost:1313/fr/fr/posts/bureaux/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/bureaux/</guid>
+      <description>&lt;p&gt;D&amp;rsquo;une image Pinterest seule , en respectant des contraintes classiques ou spécifiques pour que ces bureaux soient confortables, l&amp;rsquo;enjeu est de créer des pieds à la fois originaux et stables.&#xA;Premières soudures avec des angles vraiment rentrants, pas possibilité de meulage à l&amp;rsquo;interieur, les coupes doivent être parfaites&lt;/p&gt;&#xA;&lt;p&gt;Sans traitement particuier, juste avec de l&amp;rsquo;huile type Rutsol. Et voila 2 ados ravis&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

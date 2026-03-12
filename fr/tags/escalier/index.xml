@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Escalier on Mon Blog Personnel</title>
+    <link>//localhost:1313/fr/tags/escalier/</link>
+    <description>Recent content in Escalier on Mon Blog Personnel</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/tags/escalier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Echelle de meunier acier/chêne</title>
+      <link>//localhost:1313/fr/fr/posts/echelle-yann/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/fr/posts/echelle-yann/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
