@@ -1,1 +1,243 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Mon Blog Personnel</title><link>https://chybz.art/fr/tags/</link><description>Recent content in Tags on Mon Blog Personnel</description><generator>Hugo</generator><language>fr</language><atom:link href="https://chybz.art/fr/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mon Blog Personnel</title>
+    <link>//localhost:1313/fr/tags/</link>
+    <description>Recent content in Tags on Mon Blog Personnel</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art</title>
+      <link>//localhost:1313/fr/tags/art/</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Électronique</title>
+      <link>//localhost:1313/fr/tags/%C3%A9lectronique/</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/%C3%A9lectronique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IBM</title>
+      <link>//localhost:1313/fr/tags/ibm/</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/ibm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IDataPlex</title>
+      <link>//localhost:1313/fr/tags/idataplex/</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/idataplex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recyclage</title>
+      <link>//localhost:1313/fr/tags/recyclage/</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/recyclage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ISEQ</title>
+      <link>//localhost:1313/fr/tags/iseq/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/iseq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acier</title>
+      <link>//localhost:1313/fr/tags/acier/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/acier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artisanat</title>
+      <link>//localhost:1313/fr/tags/artisanat/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/artisanat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chêne</title>
+      <link>//localhost:1313/fr/tags/ch%C3%AAne/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/ch%C3%AAne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>//localhost:1313/fr/tags/design/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobilier</title>
+      <link>//localhost:1313/fr/tags/mobilier/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/mobilier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decoupe Laser</title>
+      <link>//localhost:1313/fr/tags/decoupe-laser/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/decoupe-laser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Upcycling</title>
+      <link>//localhost:1313/fr/tags/upcycling/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/upcycling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hpc</title>
+      <link>//localhost:1313/fr/tags/hpc/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/hpc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engrenage</title>
+      <link>//localhost:1313/fr/tags/engrenage/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/engrenage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soudure</title>
+      <link>//localhost:1313/fr/tags/soudure/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/soudure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thermolaquage</title>
+      <link>//localhost:1313/fr/tags/thermolaquage/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/thermolaquage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3par</title>
+      <link>//localhost:1313/fr/tags/3par/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/3par/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fmd</title>
+      <link>//localhost:1313/fr/tags/fmd/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/fmd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hitachi</title>
+      <link>//localhost:1313/fr/tags/hitachi/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/hitachi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lampe</title>
+      <link>//localhost:1313/fr/tags/lampe/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/lampe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Led</title>
+      <link>//localhost:1313/fr/tags/led/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/led/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vase Expansion</title>
+      <link>//localhost:1313/fr/tags/vase-expansion/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/vase-expansion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3d</title>
+      <link>//localhost:1313/fr/tags/3d/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/3d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Datacenter</title>
+      <link>//localhost:1313/fr/tags/datacenter/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/datacenter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Immersion Cooling</title>
+      <link>//localhost:1313/fr/tags/immersion-cooling/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/immersion-cooling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ado</title>
+      <link>//localhost:1313/fr/tags/ado/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/ado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bureaux</title>
+      <link>//localhost:1313/fr/tags/bureaux/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/bureaux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chene</title>
+      <link>//localhost:1313/fr/tags/chene/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/chene/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Corniere</title>
+      <link>//localhost:1313/fr/tags/corniere/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/corniere/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Escalier</title>
+      <link>//localhost:1313/fr/tags/escalier/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/escalier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rack</title>
+      <link>//localhost:1313/fr/tags/rack/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/rack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssd</title>
+      <link>//localhost:1313/fr/tags/ssd/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/tags/ssd/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

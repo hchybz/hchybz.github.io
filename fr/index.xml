@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mon Blog Personnel</title><link>https://chybz.art/fr/</link><description>Recent content on Mon Blog Personnel</description><generator>Hugo</generator><language>fr</language><atom:link href="https://chybz.art/fr/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mon Blog Personnel</title>
+    <link>https://chybz.art/fr/</link>
+    <description>Recent content on Mon Blog Personnel</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://chybz.art/fr/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
