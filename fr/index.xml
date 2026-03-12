@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mon Blog Personnel</title><link>https://chybz.art/fr/</link><description>Recent content on Mon Blog Personnel</description><generator>Hugo</generator><language>fr</language><atom:link href="https://chybz.art/fr/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mon Blog Personnel</title><link>https://chybz.art/fr/</link><description>Recent content on Mon Blog Personnel</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://chybz.art/fr/index.xml" rel="self" type="application/rss+xml"/><item><title>Statistiques du site</title><link>https://chybz.art/fr/statistiques/</link><pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate><guid>https://chybz.art/fr/statistiques/</guid><description>&lt;h1 id="statistiques-de-fréquentation"&gt;Statistiques de fréquentation&lt;/h1&gt;
+&lt;p&gt;Bienvenue sur la page des statistiques ! Ici, vous pouvez découvrir les données de fréquentation de mon site web.&lt;/p&gt;
+&lt;p&gt;Ces statistiques sont collectées de manière &lt;strong&gt;respectueuse de votre vie privée&lt;/strong&gt; grâce à &lt;a href="https://www.goatcounter.com"&gt;GoatCounter&lt;/a&gt;, un outil open source qui ne nécessite aucun cookie et est conforme au RGPD.&lt;/p&gt;
+&lt;h2 id="données-collectées"&gt;Données collectées&lt;/h2&gt;
+&lt;p&gt;Les informations suivantes sont collectées de manière anonyme :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Nombre de visiteurs&lt;/li&gt;
+&lt;li&gt;📄 Pages les plus consultées&lt;/li&gt;
+&lt;li&gt;🌍 Pays d&amp;rsquo;origine (basé sur l&amp;rsquo;adresse IP, mais sans la stocker)&lt;/li&gt;
+&lt;li&gt;🖥️ Navigateurs et systèmes d&amp;rsquo;exploitation utilisés&lt;/li&gt;
+&lt;li&gt;📱 Types d&amp;rsquo;appareils (ordinateur, mobile, tablette)&lt;/li&gt;
+&lt;li&gt;🔗 Sources de trafic (d&amp;rsquo;où viennent les visiteurs)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Important :&lt;/strong&gt; Aucune donnée personnelle n&amp;rsquo;est collectée. Pas de cookies, pas de tracking individuel, pas de revente de données.&lt;/p&gt;</description></item></channel></rss>
