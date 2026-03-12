@@ -143,35 +143,41 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Auto-expand the category of the current page
   const currentPath = window.location.pathname;
+  let categoryFound = false;
 
   // Check if we're on an article page by looking for article links in the sidebar
   categoryToggles.forEach((toggle) => {
     const articleList = toggle.nextElementSibling;
     if (articleList && articleList.classList.contains("article-list")) {
       const links = articleList.querySelectorAll("a");
+      let foundInThisCategory = false;
+
       links.forEach((link) => {
+        const linkHref = link.getAttribute("href");
+        // Normalize paths for comparison (remove trailing slashes)
+        const normalizedLinkHref = linkHref.replace(/\/$/, "");
+        const normalizedCurrentPath = currentPath.replace(/\/$/, "");
+
         // If the current page matches this link, expand this category
-        if (
-          link.getAttribute("href") === currentPath ||
-          currentPath.includes(link.getAttribute("href"))
-        ) {
-          const chevron = toggle.querySelector("svg");
-          articleList.classList.remove("hidden");
-          chevron.classList.add("rotate-180");
+        if (normalizedLinkHref === normalizedCurrentPath) {
+          foundInThisCategory = true;
+          categoryFound = true;
           // Highlight the active article link
           link.classList.add("bg-blue-50", "text-blue-600", "font-medium");
         }
       });
+
+      // If we found a matching article in this category, expand it
+      if (foundInThisCategory) {
+        const chevron = toggle.querySelector("svg");
+        articleList.classList.remove("hidden");
+        chevron.classList.add("rotate-180");
+      }
     }
   });
 
   // If no category was opened (e.g., on home page), auto-expand IT category as default
-  const hasOpenCategory = Array.from(categoryToggles).some((toggle) => {
-    const chevron = toggle.querySelector("svg");
-    return chevron && chevron.classList.contains("rotate-180");
-  });
-
-  if (!hasOpenCategory) {
+  if (!categoryFound) {
     const itToggle = document.querySelector(
       '.category-toggle[data-category="it"]',
     );
