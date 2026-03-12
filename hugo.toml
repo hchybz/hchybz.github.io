@@ -8,6 +8,7 @@ defaultContentLanguage = 'fr'
     languageCode = 'en'
     languageName = 'English'
     weight = 2
+    contentDir = 'content/en'
     title = 'My Personal Blog'
 
     [languages.en.params]
@@ -27,6 +28,7 @@ defaultContentLanguage = 'fr'
     languageCode = 'fr'
     languageName = 'Français'
     weight = 1
+    contentDir = 'content/fr'
     title = 'Mon Blog Personnel'
 
     [languages.fr.params]
