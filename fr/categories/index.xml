@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Mon Blog Personnel</title><link>https://chybz.art/fr/categories/</link><description>Recent content in Categories on Mon Blog Personnel</description><generator>Hugo</generator><language>fr</language><atom:link href="https://chybz.art/fr/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Mon Blog Personnel</title>
+    <link>//localhost:1313/fr/categories/</link>
+    <description>Recent content in Categories on Mon Blog Personnel</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT</title>
+      <link>//localhost:1313/fr/categories/it/</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/categories/it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Non IT</title>
+      <link>//localhost:1313/fr/categories/non-it/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/categories/non-it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projets</title>
+      <link>//localhost:1313/fr/categories/projets/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fr/categories/projets/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
