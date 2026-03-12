@@ -19,22 +19,6 @@
                 </a>
                 {{ end }}
             </div>
-
-            <!-- Language Switcher -->
-            {{ if hugo.IsMultilingual }}
-            <div class="flex items-center space-x-3">
-                <span class="text-sm text-gray-400">{{ i18n "language" | default "Language" }}:</span>
-                {{ $currentLang := .Lang }}
-                {{ range .Translations }}
-                    <a href="{{ .RelPermalink }}" class="px-4 py-2 rounded-lg bg-gray-600 hover:bg-gray-700 transition-colors font-medium text-sm">
-                        {{ .Lang | upper }}
-                    </a>
-                {{ end }}
-                <button class="px-4 py-2 rounded-lg bg-blue-600 hover:bg-blue-700 transition-colors font-medium text-sm lang-active" disabled>
-                    {{ $currentLang | upper }}
-                </button>
-            </div>
-            {{ end }}
         </div>
 
         <div class="mt-6 text-center text-sm text-gray-400">

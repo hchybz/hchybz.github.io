@@ -1,19 +1,117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recyclage on My Personal Blog</title>
-    <link>//localhost:1313/tags/recyclage/</link>
-    <description>Recent content in Recyclage on My Personal Blog</description>
+    <title>Recyclage on Mon Blog Personnel</title>
+    <link>https://chybz.art/tags/recyclage/</link>
+    <description>Recent content in Recyclage on Mon Blog Personnel</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/recyclage/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
+    <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://chybz.art/tags/recyclage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presse Papier personnalisé - radiateurs HPC</title>
+      <link>https://chybz.art/fr/posts/presse-papier/</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/presse-papier/</guid>
+      <description>&lt;p&gt;1ère sortie officielle de ce prototype de presse-papiers réalisé il y a 18 mois pour une occasion particulière (mes collègues de Exaion vont reconnaître)&lt;/p&gt;&#xA;&lt;p&gt;Après plusieurs essais et échecs, la version finale semble plutôt réussie (un grand merci à Emmanuel RIVET pour sa patience et la qualité de son travail de gravure)&lt;/p&gt;&#xA;&lt;p&gt;Pas de gravure laser sur du cuivre et un QRcode usiné à la CNC n’est pas lisible par un smartphone.&#xA;D’ou le mix des 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo ISEQ : Art à partir de composants IBM recyclés</title>
+      <link>https://chybz.art/fr/posts/logo-iseq/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/logo-iseq/</guid>
+      <description>&lt;p&gt;Bon, ça y est, il a été enfin dévoilé lors de l&amp;rsquo;AGA de l&amp;rsquo;&lt;a href=&#34;https://www.linkedin.com/company/pole-iseq/&#34;&gt;ISEQ Pôle d&amp;rsquo;excellence de l&amp;rsquo;Industrie des Systèmes Électroniques du Québec&lt;/a&gt;. Ce logo a été commandé il y a de nombreux mois, suite à l&amp;rsquo;inauguration d&amp;rsquo;un autre site l&amp;rsquo;année dernière à Sherbrooke, où mes premiers logos étaient dévoilés sur ce continent.&lt;/p&gt;&#xA;&lt;h2 id=&#34;la-connexion-ibm&#34;&gt;La Connexion IBM&lt;/h2&gt;&#xA;&lt;p&gt;De par sa proximité (et pas que géographique) avec IBM, Alexandra Tolza m&amp;rsquo;avait à l&amp;rsquo;époque demandé d&amp;rsquo;utiliser un maximum de pièces hors d&amp;rsquo;usage d&amp;rsquo;origine &amp;ldquo;IBM&amp;rdquo;. Ce défi m&amp;rsquo;a poussé à rechercher des composants IBM authentiques, transformant une technologie obsolète en une œuvre d&amp;rsquo;art significative qui représente l&amp;rsquo;industrie des systèmes électroniques au Québec.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portes rack informatique ATOS</title>
+      <link>https://chybz.art/fr/posts/portes-myria/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/portes-myria/</guid>
+      <description>&lt;p&gt;L’une des dernières séries de portes metal découpées au laser que BULL/ATOS mettaient sur ses racks Sequana.&lt;/p&gt;&#xA;&lt;p&gt;Comme pour les façades métalliques des bullion B (dernier post), tout ceci a été abandonné et remplacé par du plastique.. dommage mais compréhensible..&lt;/p&gt;&#xA;&lt;p&gt;Ces 40 portes vont servir de base à des nouvelles créations, meubles, lampes et autres déco murales&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo Ecole ECE</title>
+      <link>https://chybz.art/fr/posts/logo-ece/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/logo-ece/</guid>
+      <description>&lt;p&gt;Donner du sens visuel à une collaboration engagée, voilà le cœur de ce projet.&lt;/p&gt;&#xA;&lt;p&gt;🤝 Pour célébrer le partenariat entre une startup High-Tech &lt;a href=&#34;https://www.linkedin.com/company/exaion/&#34;&gt;EXAION&lt;/a&gt; et l’école d’ingénieurs &lt;a href=&#34;https://www.linkedin.com/school/ece-ecole-ingenieurs/&#34;&gt;ECE&lt;/a&gt;, ce logo a été imaginé comme le symbole d’un échange technique et durable.&lt;/p&gt;&#xA;&lt;p&gt;🔧 Une création originale mêlant recyclage high-tech et design innovant, illustrant à la fois l’ancrage technologique et la dimension pédagogique du projet.&lt;/p&gt;&#xA;&lt;p&gt;Première création avec des circuits imprimés noirs, issus de cartes mères de minage&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projet de banc BULL</title>
+      <link>https://chybz.art/fr/posts/banc-bull/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/banc-bull/</guid>
+      <description>&lt;h2 id=&#34;une-autre-époque&#34;&gt;Une autre époque&lt;/h2&gt;&#xA;&lt;p&gt;Avis aux passionnés ayant des cheveux grisonnants : qui a encore ce genre de puce dans son infrastructure ?&lt;/p&gt;&#xA;&lt;p&gt;Quelles sont ces cartes magiques qui ont fait la fierté de &lt;a href=&#34;https://www.linkedin.com/company/bull/&#34;&gt;Bull&lt;/a&gt; ?&lt;/p&gt;&#xA;&lt;p&gt;Toute une belle époque malheureusement révolue … mais elle peut être immortalisée un peu.&lt;/p&gt;&#xA;&lt;p&gt;Il doit bien y avoir un.e responsable qui serait heureux d avoir ce genre de souvenir sur son site Bull ou Atos ou un site client&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo PINQ² - HPC Lenovo</title>
+      <link>https://chybz.art/fr/posts/logo-pinq-hpc/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/logo-pinq-hpc/</guid>
+      <description>&lt;p&gt;Repenser l&amp;rsquo;identité digitale à travers le prisme du recyclage et du design circulaire, c’est le défi relevé avec ce projet pour l&amp;rsquo;inauguration de ce HPC et de cette salle à l&amp;rsquo;hiver 2024.&lt;/p&gt;&#xA;&lt;p&gt;🔧 Le logo PINQ fusionne design moderne, upcycling high-tech et innovation pour incarner une identité digitale forte et engagée : c&amp;rsquo;est le premier avec des composants en 3D (radiateurs, DIMM) ajoutés sur les cartes electroniques découpées.&lt;/p&gt;&#xA;&lt;p&gt;💡 Cette création réaffirme qu’il est possible de renforcer innovation et une démarche écoresponsable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo PINQ² - Visuel Porte</title>
+      <link>https://chybz.art/fr/posts/logo-pinq-porte/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/logo-pinq-porte/</guid>
+      <description>&lt;p&gt;Repenser l&amp;rsquo;identité digitale à travers le prisme du recyclage et du design circulaire, c’est le défi relevé avec ce projet pour l&amp;rsquo;inauguration de ce HPC et de cette salle à l&amp;rsquo;hiver 2024.&lt;/p&gt;&#xA;&lt;p&gt;🔧 Le logo PINQ fusionne design moderne, upcycling high-tech et innovation pour incarner une identité digitale forte et engagée : c&amp;rsquo;est le premier avec des composants en 3D (radiateurs, DIMM) ajoutés sur les cartes electroniques découpées.&lt;/p&gt;&#xA;&lt;p&gt;💡 Cette création réaffirme qu’il est possible de renforcer innovation et une démarche écoresponsable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Table de support d une maquette LEGO de DataCenter</title>
+      <link>https://chybz.art/fr/posts/table-lego/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/table-lego/</guid>
+      <description>&lt;p&gt;Certainement la plus plus grandes / belle de mes créations. Des mois de gestations et de tri, de déassamblage, de découpe de composants..&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lampe vase d expansion</title>
+      <link>https://chybz.art/fr/posts/lampe-vase-expansion/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/lampe-vase-expansion/</guid>
+      <description>&lt;p&gt;Lors du changement des vases d&amp;rsquo;expansion sur un site industriel, récupération avant d&amp;rsquo;etre mis à la benne.&#xA;Un chance de trouver une plaque LED sur une &amp;ldquo;marketplace&amp;rdquo; chinoise qui fait pile le diamètre&lt;/p&gt;&#xA;&lt;p&gt;En solo avec un pied en tube de plomberie décoratif ou pour un très gros lustre répartis autour d&amp;rsquo;un cerclage de roue de charrette.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo EXAION - Bureau et DataCenter</title>
+      <link>https://chybz.art/fr/posts/logo-exaion-qc1/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/logo-exaion-qc1/</guid>
+      <description></description>
+    </item>
     <item>
       <title>EXAION Logo - IMC Tank</title>
-      <link>//localhost:1313/en/posts/logo-exaion-bac/</link>
+      <link>https://chybz.art/en/posts/logo-exaion-bac/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/posts/logo-exaion-bac/</guid>
+      <guid>https://chybz.art/en/posts/logo-exaion-bac/</guid>
       <description>&lt;p&gt;Blabla&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo EXAION - Bac Submer</title>
+      <link>https://chybz.art/fr/posts/logo-exaion-bac/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/logo-exaion-bac/</guid>
+      <description>&lt;p&gt;Blabla&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meuble à casiers - cache ARISTA</title>
+      <link>https://chybz.art/fr/posts/casier-arista/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/casier-arista/</guid>
+      <description>&lt;p&gt;Avant de finir dans une classoque benne &amp;ldquo;métaux&amp;rdquo;, ces caches pour garantir la ventilation des chassis ARISTA ainsi que ces rails propriétaires Hitachi (qui ne se montent que sur des racks Hitachi), ont trouvé une seconde-première vie dans mon atelier.&lt;/p&gt;&#xA;&lt;p&gt;Apres transformation des caches pour les rendre &amp;ldquo;fermés&amp;rdquo;. et un peu de méthode pour faire une série de 64 casiers.. un meuble &amp;ldquo;à cases&amp;rdquo;. Attention au poids&amp;hellip; fixation murale obligatoire.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo EXAION - Rack</title>
+      <link>https://chybz.art/fr/posts/logo-exaion-noe/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/logo-exaion-noe/</guid>
+      <description>&lt;p&gt;Le premier logo sur porte grillagée de rack informatique. Valide la méthode des entretoises de fixation et du plan A0 découpé&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;A cette époque, les composants de surface étaient retirés à la Dremel ou au tournevis. Donc pas d&amp;rsquo;effet 3D comme dans les prochains.  Mais moins de risques d&amp;rsquo;abimer le logo en faisant la maintenances des équipements du rack.&lt;/p&gt;&#xA;&lt;p&gt;Est toujours à l&amp;rsquo;entrée de la salle informatique pour une effet waouh garanti !&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Table de nuit Ado</title>
+      <link>https://chybz.art/fr/posts/table-de-nuit/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://chybz.art/fr/posts/table-de-nuit/</guid>
+      <description>&lt;p&gt;Pour l&amp;rsquo;un des mes ados, peu de place, donc juste le minimum pour le smartphone et les écouteurs !&lt;/p&gt;&#xA;&lt;p&gt;Une chute de chêne d&amp;rsquo;un montant de lucarne, quelques vieux engrenages trouvés un garage. Le plus compliqué / cher c&amp;rsquo;est le verre decoupé en rond&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

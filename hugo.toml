@@ -1,13 +1,13 @@
 baseURL = 'https://chybz.art/'
-title = 'My Personal Blog'
+title = 'Mon Blog Personnel'
 theme = 'chybz'
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'fr'
 
 [languages]
   [languages.en]
     languageCode = 'en'
     languageName = 'English'
-    weight = 1
+    weight = 2
     title = 'My Personal Blog'
 
     [languages.en.params]
@@ -26,7 +26,7 @@ defaultContentLanguage = 'en'
   [languages.fr]
     languageCode = 'fr'
     languageName = 'Français'
-    weight = 2
+    weight = 1
     title = 'Mon Blog Personnel'
 
     [languages.fr.params]

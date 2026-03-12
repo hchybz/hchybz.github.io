@@ -4,9 +4,17 @@
             {{ i18n "categories" | default "Categories" }}
         </h2>
         <ul class="space-y-2">
+            {{ $currentLang := site.Language.Lang }}
             {{ range $taxonomyname, $taxonomy := site.Taxonomies }}
             {{ if eq $taxonomyname "categories" }}
                 {{ range $key, $value := $taxonomy }}
+                {{ $langPages := slice }}
+                {{ range $value.Pages }}
+                    {{ if eq .Lang $currentLang }}
+                        {{ $langPages = $langPages | append . }}
+                    {{ end }}
+                {{ end }}
+                {{ if gt (len $langPages) 0 }}
                 <li>
                     <button class="category-toggle w-full flex items-center justify-between px-4 py-3 rounded-lg hover:bg-blue-50 text-gray-700 hover:text-blue-600 font-medium transition-colors" data-category="{{ $key }}">
                         <span>{{ with $value.Page }}{{ .Title }}{{ else }}{{ $key | humanize | replaceRE "\\bIt\\b" "IT" }}{{ end }}</span>
@@ -15,17 +23,16 @@
                         </svg>
                     </button>
                     <ul class="article-list ml-4 mt-2 space-y-1 hidden">
-                        {{ range $value.Pages }}
-                        {{ if eq .Lang site.Language.Lang }}
+                        {{ range $langPages }}
                         <li>
                             <a href="{{ .RelPermalink }}" class="block px-3 py-2 text-sm text-gray-600 hover:text-blue-600 hover:bg-blue-50 rounded transition-colors">
                                 {{ .Title }}
                             </a>
                         </li>
                         {{ end }}
-                        {{ end }}
                     </ul>
                 </li>
+                {{ end }}
                 {{ end }}
             {{ end }}
             {{ end }}
