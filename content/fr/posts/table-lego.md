@@ -1,6 +1,6 @@
 +++
 title = 'Table de support d une maquette LEGO de DataCenter'
-date = '2024-12-21T00:00:00+00:00'
+date = '2022-11-17T00:00:00+00:00'
 draft = false
 lang = 'fr'
 translationKey = 'table-lego'
@@ -22,4 +22,11 @@ images = [
 ]
 +++
 
-Certainement la plus plus grandes / belle de mes créations. Des mois de gestations et de tri, de déassamblage, de découpe de composants..
+Certainement la plus plus grandes / belles de mes créations. Des mois de gestations et de tri, de déassamblage, de découpe de composants..
+
+Avec le décommisionnment des chassis Cisco 6000, la réutilisation de vieilles barrettes mémoire provenant d'un IBM Z, des GPU d'un très vieux HPC et des disques durs HS d'un autre HPC. Cette table, vu ses dimensions, a du être réalisée avec un partenaire metallier de longue date, l'entreprise [Pizette](https://www.linkedin.com/company/pizette/). 
+
+Elle est dans le hall du site EDF de Nanterre, et sert de support pour une maquette Lego d'un DC
+
+* Dimensions WxDxH : 3m x 1.7m x 0.8m
+* Poids Total sans la maquette : 150kg (structure) + 100kg (verre) + 50kg (composants) = 300kg

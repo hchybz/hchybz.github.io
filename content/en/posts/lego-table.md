@@ -28,5 +28,5 @@ With the decommissioning of Cisco 6000 chassis, the reuse of old memory modules 
 
 It is in the lobby of the EDF Nanterre site, and serves as a support for a Lego model of a DC.
 
-Dimensions WxDxH: 3m x 1.7m x 0.8m
-Total weight without the model: 150kg (structure) + 100kg (glass) + 50kg (components) = 300kg
+* Dimensions WxDxH: 3m x 1.7m x 0.8m
+* Total weight without the model: 150kg (structure) + 100kg (glass) + 50kg (components) = 300kg

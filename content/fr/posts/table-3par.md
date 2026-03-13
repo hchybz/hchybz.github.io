@@ -27,7 +27,7 @@ Spéciale dédicace à [AntemetA](https://www.linkedin.com/company/antemeta/) et
 
 Cette table qui est dans le hall de [ORNESS](https://www.linkedin.com/company/orness/) accueille tous les passionnés
 
-Je peux encore faire la meêe, il me reste pile 12 SSD.
+Je peux encore faire la même, il me reste pile 12 SSD.
 
 * Dimensions : ~35 x 35 w 33 cm
 * Poids : 7kg
