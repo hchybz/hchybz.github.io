@@ -1,17 +1,24 @@
 <header class="sticky top-0 z-50 bg-white shadow-md">
-    <div class="flex items-center justify-between px-4 py-3 md:px-6">
-        <!-- Logo -->
-        <div class="flex items-center">
+    <div class="flex items-center h-full">
+        <!-- Logo zone - width matches sidebar -->
+        <div id="header-logo-zone" class="hidden md:flex items-center justify-center flex-shrink-0 w-64 px-4 py-3 border-r border-gray-100">
             <a href="{{ "/" | relLangURL }}">
                 <img src="{{ "logo.png" | relURL }}" alt="{{ site.Title }}" class="h-16">
             </a>
         </div>
 
-        <div class="flex items-center space-x-4">
+        <!-- Mobile logo -->
+        <div class="flex md:hidden items-center px-4 py-3">
+            <a href="{{ "/" | relLangURL }}">
+                <img src="{{ "logo.png" | relURL }}" alt="{{ site.Title }}" class="h-16">
+            </a>
+        </div>
+
+        <!-- Right side: language switcher + mobile menu -->
+        <div class="flex items-center justify-end flex-1 px-4 py-3 md:px-6 space-x-4">
             <!-- Language Switcher -->
             {{ if hugo.IsMultilingual }}
             <div class="flex items-center space-x-2">
-                {{ $currentLang := .Lang }}
                 {{ range .Translations }}
                     <a href="{{ .RelPermalink }}" class="px-3 py-1.5 rounded-md text-sm font-medium text-gray-500 hover:text-blue-600 hover:bg-blue-50 transition-colors">
                         {{ .Language.LanguageName }}
