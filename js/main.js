@@ -18,19 +18,40 @@ document.addEventListener("DOMContentLoaded", function () {
   const maxWidth = 600;
   const defaultWidth = 256; // 64 * 4 = 256px (w-64 in Tailwind)
 
+  // Function to update layout based on sidebar width
+  function updateLayoutForSidebarWidth(width) {
+    if (window.innerWidth >= 768) {
+      sidebar.style.width = width + "px";
+      const main = document.querySelector("main");
+      if (main) {
+        main.style.marginLeft = width + "px";
+      }
+      // Also update any other elements that need adjustment
+      const header = document.querySelector("header");
+      if (header) {
+        header.style.paddingLeft = width + "px";
+      }
+    }
+  }
+
   // Load saved width from localStorage
   const savedWidth = localStorage.getItem("sidebarWidth");
   if (savedWidth) {
-    sidebar.style.width = savedWidth + "px";
+    updateLayoutForSidebarWidth(parseInt(savedWidth));
   }
 
   if (resizeHandle) {
     resizeHandle.addEventListener("mousedown", function (e) {
+      e.preventDefault();
       isResizing = true;
       document.body.style.cursor = "ew-resize";
       document.body.style.userSelect = "none";
       // Disable transitions during resize
       sidebar.style.transition = "none";
+
+      // Add visual feedback
+      resizeHandle.style.backgroundColor = "rgb(59, 130, 246)"; // blue-500
+      resizeHandle.style.width = "4px";
     });
   }
 
@@ -39,12 +60,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const newWidth = e.clientX;
     if (newWidth >= minWidth && newWidth <= maxWidth) {
-      sidebar.style.width = newWidth + "px";
-      // Update main content margin
-      const main = document.querySelector("main");
-      if (main && window.innerWidth >= 768) {
-        main.style.marginLeft = newWidth + "px";
-      }
+      updateLayoutForSidebarWidth(newWidth);
     }
   });
 
@@ -57,15 +73,26 @@ document.addEventListener("DOMContentLoaded", function () {
       sidebar.style.transition = "";
       // Save the width to localStorage
       localStorage.setItem("sidebarWidth", sidebar.offsetWidth);
+
+      // Remove visual feedback
+      if (resizeHandle) {
+        resizeHandle.style.backgroundColor = "";
+        resizeHandle.style.width = "";
+      }
     }
   });
 
   // Apply saved width on page load
   if (savedWidth && window.innerWidth >= 768) {
-    const main = document.querySelector("main");
-    if (main) {
-      main.style.marginLeft = savedWidth + "px";
-    }
+    updateLayoutForSidebarWidth(parseInt(savedWidth));
+  }
+
+  // Reset sidebar width on double-click of resize handle
+  if (resizeHandle) {
+    resizeHandle.addEventListener("dblclick", function () {
+      updateLayoutForSidebarWidth(defaultWidth);
+      localStorage.setItem("sidebarWidth", defaultWidth);
+    });
   }
 
   /**

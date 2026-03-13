@@ -53,6 +53,30 @@
     background-color: rgb(37 99 235) !important; /* bg-blue-600 */
 }
 
+/* Sidebar resize handle styling */
+#sidebar-resize-handle {
+    background-color: rgba(229, 231, 235, 0.8); /* gray-200 with opacity */
+    transition: all 0.2s ease-in-out;
+}
+
+#sidebar-resize-handle:hover {
+    background-color: rgb(59, 130, 246); /* blue-500 */
+    width: 0.75rem !important; /* w-3 = 12px */
+}
+
+#sidebar-resize-handle:active {
+    background-color: rgb(37, 99, 235); /* blue-600 */
+    width: 1rem !important; /* w-4 = 16px */
+}
+
+/* Prevent text selection during resize */
+body.resizing {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
 /* Responsive grid adjustments for masonry effect */
 @media (min-width: 768px) {
     .grid > article:nth-child(3n + 1) img {
