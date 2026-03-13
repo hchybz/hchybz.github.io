@@ -40,14 +40,6 @@
             {{ end }}
             {{ end }}
 
-            <!-- About Link -->
-            {{ with site.GetPage "about" }}
-            <li>
-                <a href="{{ .RelPermalink }}" class="block px-4 py-3 rounded-lg hover:bg-blue-50 text-gray-700 hover:text-blue-600 font-medium transition-colors category-link">
-                    {{ i18n "about" | default "About" }}
-                </a>
-            </li>
-            {{ end }}
         </ul>
 
         <!-- By Date Section -->
@@ -116,5 +108,13 @@
             </li>
             {{ end }}
         </ul>
+        <!-- About Link - apres Par Dates -->
+        <div class="mt-8 pt-6 border-t border-gray-200">
+            {{ with site.GetPage "about" }}
+            <a href="{{ .RelPermalink }}" class="block px-4 py-3 rounded-lg hover:bg-blue-50 text-gray-700 hover:text-blue-600 font-medium transition-colors category-link">
+                {{ i18n "about" | default "About" }}
+            </a>
+            {{ end }}
+        </div>
     </div>
 </nav>
