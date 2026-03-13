@@ -26,10 +26,10 @@ document.addEventListener("DOMContentLoaded", function () {
       if (main) {
         main.style.marginLeft = width + "px";
       }
-      // Also update any other elements that need adjustment
-      const header = document.querySelector("header");
-      if (header) {
-        header.style.paddingLeft = width + "px";
+      // Keep logo zone width in sync with sidebar
+      const logoZone = document.getElementById("header-logo-zone");
+      if (logoZone) {
+        logoZone.style.width = width + "px";
       }
     }
   }
