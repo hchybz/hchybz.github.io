@@ -41,7 +41,7 @@
             {{ end }}
 
             <!-- About Link -->
-            {{ with site.GetPage "/about" }}
+            {{ $aboutPage := "" }}{{ if eq $currentLang "fr" }}{{ $aboutPage = site.GetPage "/about" }}{{ else }}{{ $aboutPage = site.GetPage "/en/about" }}{{ end }}{{ with $aboutPage }}
             <li>
                 <a href="{{ .RelPermalink }}" class="block px-4 py-3 rounded-lg hover:bg-blue-50 text-gray-700 hover:text-blue-600 font-medium transition-colors category-link">
                     {{ i18n "about" | default "About" }}
