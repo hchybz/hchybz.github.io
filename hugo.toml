@@ -51,6 +51,18 @@ defaultContentLanguage = 'fr'
   goatcounter = 'chybzart'
   color = 'linen'
 
+  # Category badge colors for date menu
+  [params.categoryColors]
+    [params.categoryColors.IT]
+      bg = 'bg-blue-100'
+      text = 'text-blue-700'
+    [params.categoryColors.NonIT]
+      bg = 'bg-green-100'
+      text = 'text-green-700'
+    [params.categoryColors.Projects]
+      bg = 'bg-purple-100'
+      text = 'text-purple-700'
+
 [taxonomies]
   category = 'categories'
   tag = 'tags'

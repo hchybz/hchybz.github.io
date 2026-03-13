@@ -7,7 +7,7 @@ translationKey = 'portes-myria'
 author = 'Herve (ChybzArt)'
 description = "Portes metalliques découpées au laser.. pour des futures créations."
 tags = ['recyclage', 'acier', 'decoupe laser']
-categories = ['Projets']
+categories = ['Projects']
 image = '/images/portes-myria/myria-1.png'
 images = [
     '/images/portes-myria/myria-1.png',

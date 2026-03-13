@@ -1,63 +1,46 @@
-<nav
-    id="sidebar"
-    class="fixed top-16 left-0 h-[calc(100vh-4rem)] w-64 bg-white shadow-lg transform -translate-x-full md:translate-x-0 transition-transform duration-300 ease-in-out z-40 overflow-y-auto"
->
+<nav id="sidebar" class="fixed top-16 left-0 h-[calc(100vh-4rem)] w-64 bg-white shadow-lg transform -translate-x-full md:translate-x-0 transition-transform duration-300 ease-in-out z-40 overflow-y-auto">
     <div class="p-6">
         <h2 class="text-xl font-bold text-gray-800 mb-6">
             {{ i18n "categories" | default "Categories" }}
         </h2>
         <ul class="space-y-2">
-            {{ $currentLang := site.Language.Lang }} {{ range $taxonomyname,
-            $taxonomy := site.Taxonomies }} {{ if eq $taxonomyname "categories"
-            }} {{ range $key, $value := $taxonomy }} {{ $langPages := slice }}
-            {{ range $value.Pages }} {{ if eq .Lang $currentLang }} {{
-            $langPages = $langPages | append . }} {{ end }} {{ end }} {{ if gt
-            (len $langPages) 0 }}
-            <li>
-                <button
-                    class="category-toggle w-full flex items-center justify-between px-4 py-3 rounded-lg hover:bg-blue-50 text-gray-700 hover:text-blue-600 font-medium transition-colors"
-                    data-category="{{ $key }}"
-                >
-                    <span
-                        >{{ with $value.Page }}{{ .Title }}{{ else }}{{ $key |
-                        humanize | replaceRE "\\bIt\\b" "IT" }}{{ end }}</span
-                    >
-                    <svg
-                        class="w-5 h-5 transform transition-transform duration-200"
-                        fill="none"
-                        stroke="currentColor"
-                        viewBox="0 0 24 24"
-                    >
-                        <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            stroke-width="2"
-                            d="M19 9l-7 7-7-7"
-                        ></path>
-                    </svg>
-                </button>
-                <ul class="article-list ml-4 mt-2 space-y-1 hidden">
-                    {{ range $langPages }}
-                    <li>
-                        <a
-                            href="{{ .RelPermalink }}"
-                            class="block px-3 py-2 text-sm text-gray-600 hover:text-blue-600 hover:bg-blue-50 rounded transition-colors"
-                        >
-                            {{ .Title }}
-                        </a>
-                    </li>
+            {{ $currentLang := site.Language.Lang }}
+            {{ range $taxonomyname, $taxonomy := site.Taxonomies }}
+            {{ if eq $taxonomyname "categories" }}
+                {{ range $key, $value := $taxonomy }}
+                {{ $langPages := slice }}
+                {{ range $value.Pages }}
+                    {{ if eq .Lang $currentLang }}
+                        {{ $langPages = $langPages | append . }}
                     {{ end }}
-                </ul>
-            </li>
-            {{ end }} {{ end }} {{ end }} {{ end }}
+                {{ end }}
+                {{ if gt (len $langPages) 0 }}
+                <li>
+                    <button class="category-toggle w-full flex items-center justify-between px-4 py-3 rounded-lg hover:bg-blue-50 text-gray-700 hover:text-blue-600 font-medium transition-colors" data-category="{{ $key }}">
+                        <span>{{ with $value.Page }}{{ .Title }}{{ else }}{{ $key | humanize | replaceRE "\bIt\b" "IT" }}{{ end }}</span>
+                        <svg class="w-5 h-5 transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </button>
+                    <ul class="article-list ml-4 mt-2 space-y-1 hidden">
+                        {{ range $langPages }}
+                        <li>
+                            <a href="{{ .RelPermalink }}" class="block px-3 py-2 text-sm text-gray-600 hover:text-blue-600 hover:bg-blue-50 rounded transition-colors">
+                                {{ .Title }}
+                            </a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                </li>
+                {{ end }}
+                {{ end }}
+            {{ end }}
+            {{ end }}
 
             <!-- About Link -->
             {{ with site.GetPage "/about" }}
             <li>
-                <a
-                    href="{{ .RelPermalink }}"
-                    class="block px-4 py-3 rounded-lg hover:bg-blue-50 text-gray-700 hover:text-blue-600 font-medium transition-colors category-link"
-                >
+                <a href="{{ .RelPermalink }}" class="block px-4 py-3 rounded-lg hover:bg-blue-50 text-gray-700 hover:text-blue-600 font-medium transition-colors category-link">
                     {{ i18n "about" | default "About" }}
                 </a>
             </li>
@@ -69,45 +52,60 @@
             {{ if eq $currentLang "fr" }}Par Dates{{ else }}By Date{{ end }}
         </h2>
         <ul class="space-y-2">
-            {{ $currentLang := site.Language.Lang }} {{ $pagesByYear := dict }}
-            {{ range where site.RegularPages "Section" "posts" }} {{ if eq .Lang
-            $currentLang }} {{ $year := .Date.Format "2006" }} {{ $existing :=
-            index $pagesByYear $year }} {{ if $existing }} {{ $pagesByYear =
-            merge $pagesByYear (dict $year ($existing | append .)) }} {{ else }}
-            {{ $pagesByYear = merge $pagesByYear (dict $year (slice .)) }} {{
-            end }} {{ end }} {{ end }} {{ range $year, $pages := $pagesByYear }}
+            {{ $currentLang := site.Language.Lang }}
+            {{ $pagesByYear := dict }}
+            {{ range where site.RegularPages "Section" "posts" }}
+                {{ if eq .Lang $currentLang }}
+                    {{ $year := .Date.Format "2006" }}
+                    {{ $existing := index $pagesByYear $year }}
+                    {{ if $existing }}
+                        {{ $pagesByYear = merge $pagesByYear (dict $year ($existing | append .)) }}
+                    {{ else }}
+                        {{ $pagesByYear = merge $pagesByYear (dict $year (slice .)) }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            {{ range $year, $pages := $pagesByYear }}
             {{ $sortedPages := sort $pages ".Date" "desc" }}
             <li>
-                <button
-                    class="category-toggle w-full flex items-center justify-between px-4 py-3 rounded-lg hover:bg-blue-50 text-gray-700 hover:text-blue-600 font-medium transition-colors"
-                    data-category="year-{{ $year }}"
-                >
+                <button class="category-toggle w-full flex items-center justify-between px-4 py-3 rounded-lg hover:bg-blue-50 text-gray-700 hover:text-blue-600 font-medium transition-colors" data-category="year-{{ $year }}">
                     <span>{{ $year }}</span>
-                    <svg
-                        class="w-5 h-5 transform transition-transform duration-200"
-                        fill="none"
-                        stroke="currentColor"
-                        viewBox="0 0 24 24"
-                    >
-                        <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            stroke-width="2"
-                            d="M19 9l-7 7-7-7"
-                        ></path>
+                    <svg class="w-5 h-5 transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                     </svg>
                 </button>
                 <ul class="article-list ml-4 mt-2 space-y-1 hidden">
                     {{ range $sortedPages }}
                     <li>
-                        <a
-                            href="{{ .RelPermalink }}"
-                            class="block px-3 py-2 text-sm text-gray-600 hover:text-blue-600 hover:bg-blue-50 rounded transition-colors"
-                        >
-                            <span class="text-xs text-gray-400"
-                                >{{ .Date.Format "01/02" }}</span
-                            >
+                        <a href="{{ .RelPermalink }}" class="block px-3 py-2 text-sm text-gray-600 hover:text-blue-600 hover:bg-blue-50 rounded transition-colors">
+                            <span class="text-xs text-gray-400">{{ .Date.Format "01/02" }}</span>
                             {{ .Title }}
+                            {{ range .Params.categories }}
+                                {{ $categoryKey := . }}
+                                {{ $bg := "bg-gray-100" }}
+                                {{ $text := "text-gray-700" }}
+                                {{ $displayName := . }}
+                                {{ if eq . "IT" }}
+                                    {{ with site.Params.categoryColors.IT }}
+                                        {{ $bg = .bg }}
+                                        {{ $text = .text }}
+                                    {{ end }}
+                                {{ else if or (eq . "Non IT") (eq . "NON IT") }}
+                                    {{ with site.Params.categoryColors.NonIT }}
+                                        {{ $bg = .bg }}
+                                        {{ $text = .text }}
+                                    {{ end }}
+                                {{ else if eq . "Projects" }}
+                                    {{ with site.Params.categoryColors.Projects }}
+                                        {{ $bg = .bg }}
+                                        {{ $text = .text }}
+                                    {{ end }}
+                                    {{ $displayName = i18n "Projects" | default "Projects" }}
+                                {{ end }}
+                                <span class="ml-2 px-2 py-0.5 text-xs rounded {{ $bg }} {{ $text }}">
+                                    {{ $displayName }}
+                                </span>
+                            {{ end }}
                         </a>
                     </li>
                     {{ end }}

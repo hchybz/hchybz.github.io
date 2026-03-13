@@ -7,7 +7,7 @@ translationKey = 'bull-bench'
 author = 'Herve (ChybzArt)'
 description = "Projet de banc avec des facades métalliques de serveurs Bullion B"
 tags = ['recyclage', 'upcycling']
-categories = ['Projets']
+categories = ['Projects']
 image = '/images/banc-bull/banc-1.jpg'
 images = [
     '/images/banc-bull/banc-1.jpg',

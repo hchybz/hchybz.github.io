@@ -7,7 +7,7 @@ translationKey = 'lampe-vase-expansion'
 author = 'Herve (ChybzArt)'
 description = "Lampe industrielle réalisée avec un vase d expansion et une plaque LED de 500W "
 tags = ['recyclage', 'lampe', 'vase expansion', 'led']
-categories = ['Projets']
+categories = ['Projects']
 image = '/images/lampe-vase-expansion/lampe-vase-expansion-1.png'
 images = [
     '/images/lampe-vase-expansion/lampe-vase-expansion-1.png',

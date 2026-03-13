@@ -19,5 +19,4 @@ images = [
 
 Pour l'un des mes ados, peu de place, donc juste le minimum pour le smartphone et les écouteurs !
 
-Une chute de chêne d'un montant de lucarne, quelques vieux engrenages trouvés un garage. Le plus compliqué / cher c'est le verre decoupé en rond 
-
+Une chute de chêne d'un montant de lucarne, quelques vieux engrenages trouvés dans un garage. Le plus compliqué / cher c'est le verre decoupé en rond
