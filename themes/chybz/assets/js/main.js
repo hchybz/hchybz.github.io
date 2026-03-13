@@ -7,7 +7,66 @@ document.addEventListener("DOMContentLoaded", function () {
   // Get elements
   const mobileMenuBtn = document.getElementById("mobile-menu-btn");
   const sidebar = document.getElementById("sidebar");
+  const resizeHandle = document.getElementById("sidebar-resize-handle");
   let overlay = null;
+
+  /**
+   * Sidebar resize functionality
+   */
+  let isResizing = false;
+  const minWidth = 200;
+  const maxWidth = 600;
+  const defaultWidth = 256; // 64 * 4 = 256px (w-64 in Tailwind)
+
+  // Load saved width from localStorage
+  const savedWidth = localStorage.getItem("sidebarWidth");
+  if (savedWidth) {
+    sidebar.style.width = savedWidth + "px";
+  }
+
+  if (resizeHandle) {
+    resizeHandle.addEventListener("mousedown", function (e) {
+      isResizing = true;
+      document.body.style.cursor = "ew-resize";
+      document.body.style.userSelect = "none";
+      // Disable transitions during resize
+      sidebar.style.transition = "none";
+    });
+  }
+
+  document.addEventListener("mousemove", function (e) {
+    if (!isResizing) return;
+
+    const newWidth = e.clientX;
+    if (newWidth >= minWidth && newWidth <= maxWidth) {
+      sidebar.style.width = newWidth + "px";
+      // Update main content margin
+      const main = document.querySelector("main");
+      if (main && window.innerWidth >= 768) {
+        main.style.marginLeft = newWidth + "px";
+      }
+    }
+  });
+
+  document.addEventListener("mouseup", function () {
+    if (isResizing) {
+      isResizing = false;
+      document.body.style.cursor = "";
+      document.body.style.userSelect = "";
+      // Re-enable transitions
+      sidebar.style.transition = "";
+      // Save the width to localStorage
+      localStorage.setItem("sidebarWidth", sidebar.offsetWidth);
+    }
+  });
+
+  // Apply saved width on page load
+  if (savedWidth && window.innerWidth >= 768) {
+    const main = document.querySelector("main");
+    if (main) {
+      main.style.marginLeft = savedWidth + "px";
+    }
+  }
 
   /**
    * Create overlay element for mobile menu
