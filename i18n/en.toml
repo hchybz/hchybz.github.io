@@ -9,3 +9,21 @@ other = "Back"
 
 [Projects]
 other = "Projects"
+
+[post]
+other = "post"
+
+[posts]
+other = "posts"
+
+[item]
+other = "item"
+
+[items]
+other = "items"
+
+[no_posts]
+other = "No posts found."
+
+[latest_posts]
+other = "Latest Posts"
