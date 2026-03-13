@@ -73,7 +73,7 @@
             {{ range where site.RegularPages "Section" "posts" }} {{ if eq .Lang
             $currentLang }} {{ $year := .Date.Format "2006" }} {{ $existing :=
             index $pagesByYear $year }} {{ if $existing }} {{ $pagesByYear =
-            merge $pagesByYear (dict $year (append $existing .)) }} {{ else }}
+            merge $pagesByYear (dict $year ($existing | append .)) }} {{ else }}
             {{ $pagesByYear = merge $pagesByYear (dict $year (slice .)) }} {{
             end }} {{ end }} {{ end }} {{ range $year, $pages := $pagesByYear }}
             {{ $sortedPages := sort $pages ".Date" "desc" }}
