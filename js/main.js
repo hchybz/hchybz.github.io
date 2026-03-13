@@ -202,36 +202,73 @@ document.addEventListener("DOMContentLoaded", function () {
 
   /**
    * Handle collapsible category sections
+   * L'état ouvert/fermé est persisté dans localStorage.
+   * Sur une page article, la catégorie correspondante est toujours ouverte.
    */
   const categoryToggles = document.querySelectorAll(".category-toggle");
+  const STORAGE_KEY = "sidebarOpenCategories";
 
+  // Charger l'état sauvegardé { categoryKey: true/false }
+  function loadOpenState() {
+    try {
+      return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
+    } catch (e) {
+      return {};
+    }
+  }
+
+  // Sauvegarder l'état courant
+  function saveOpenState() {
+    const state = {};
+    categoryToggles.forEach((toggle) => {
+      const key = toggle.getAttribute("data-category");
+      const articleList = toggle.nextElementSibling;
+      if (key && articleList) {
+        state[key] = !articleList.classList.contains("hidden");
+      }
+    });
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+  }
+
+  // Ouvrir ou fermer un toggle
+  function setToggle(toggle, open) {
+    const articleList = toggle.nextElementSibling;
+    const chevron = toggle.querySelector("svg");
+    if (!articleList) return;
+    if (open) {
+      articleList.classList.remove("hidden");
+      chevron.classList.add("rotate-180");
+    } else {
+      articleList.classList.add("hidden");
+      chevron.classList.remove("rotate-180");
+    }
+  }
+
+  // Clic sur un toggle : inverser et sauvegarder
   categoryToggles.forEach((toggle) => {
     toggle.addEventListener("click", function () {
       const articleList = this.nextElementSibling;
-      const chevron = this.querySelector("svg");
-
-      // Toggle the article list visibility
       if (articleList && articleList.classList.contains("article-list")) {
         const isHidden = articleList.classList.contains("hidden");
-
-        if (isHidden) {
-          // Show the list
-          articleList.classList.remove("hidden");
-          chevron.classList.add("rotate-180");
-        } else {
-          // Hide the list
-          articleList.classList.add("hidden");
-          chevron.classList.remove("rotate-180");
-        }
+        setToggle(this, isHidden);
+        saveOpenState();
       }
     });
   });
 
-  // Auto-expand the category of the current page
-  const currentPath = window.location.pathname;
-  let categoryFound = false;
+  // Restaurer l'état sauvegardé
+  const savedState = loadOpenState();
+  categoryToggles.forEach((toggle) => {
+    const key = toggle.getAttribute("data-category");
+    if (key && key in savedState) {
+      setToggle(toggle, savedState[key]);
+    }
+  });
 
-  // Check if we're on an article page by looking for article links in the sidebar
+  // Sur une page article : forcer l'ouverture de la catégorie correspondante
+  // et mettre en surbrillance le lien actif (sans toucher aux autres)
+  const currentPath = window.location.pathname;
+
   categoryToggles.forEach((toggle) => {
     const articleList = toggle.nextElementSibling;
     if (articleList && articleList.classList.contains("article-list")) {
@@ -239,43 +276,21 @@ document.addEventListener("DOMContentLoaded", function () {
       let foundInThisCategory = false;
 
       links.forEach((link) => {
-        const linkHref = link.getAttribute("href");
-        // Normalize paths for comparison (remove trailing slashes)
-        const normalizedLinkHref = linkHref.replace(/\/$/, "");
+        const normalizedLinkHref = link.getAttribute("href").replace(/\/$/, "");
         const normalizedCurrentPath = currentPath.replace(/\/$/, "");
-
-        // If the current page matches this link, expand this category
         if (normalizedLinkHref === normalizedCurrentPath) {
           foundInThisCategory = true;
-          categoryFound = true;
-          // Highlight the active article link
           link.classList.add("bg-blue-50", "text-blue-600", "font-medium");
         }
       });
 
-      // If we found a matching article in this category, expand it
+      // Forcer l'ouverture uniquement si on est sur un article de cette catégorie
       if (foundInThisCategory) {
-        const chevron = toggle.querySelector("svg");
-        articleList.classList.remove("hidden");
-        chevron.classList.add("rotate-180");
+        setToggle(toggle, true);
+        saveOpenState();
       }
     }
   });
-
-  // If no category was opened (e.g., on home page), auto-expand IT category as default
-  if (!categoryFound) {
-    const itToggle = document.querySelector(
-      '.category-toggle[data-category="it"]',
-    );
-    if (itToggle) {
-      const articleList = itToggle.nextElementSibling;
-      const chevron = itToggle.querySelector("svg");
-      if (articleList) {
-        articleList.classList.remove("hidden");
-        chevron.classList.add("rotate-180");
-      }
-    }
-  }
 
   // Close sidebar when clicking on an article link (mobile only)
   const articleLinks = document.querySelectorAll(".article-list a");
